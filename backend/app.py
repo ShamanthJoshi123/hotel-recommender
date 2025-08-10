@@ -444,8 +444,8 @@ def oyo_hotels():
         return jsonify({"error": "Internal Server Error", "details": str(e)}), 500
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
 
 
 

@@ -1,0 +1,792 @@
+hotelId,Hotel_name,Address,City,Latitude,Longitude,Property_type,Room_status,Price,Currency,Rating,Final_rating
+OIHQPWID,Capital O 80951 Hotel Radisson Suite,"India, Mumbai",Mumbai,,,hotel,,2819,INR,104,1.4
+OIVDABKK,SilverKey Hotel Manas Residency,"Chembur East, Mumbai",Mumbai,,,hotel,,2702,INR,410,2.6
+OIHMGTJI,Hotel Airport Metro,"Andheri East, Mumbai",Mumbai,,,hotel,,2289,INR,879,4.5
+OIHSYWGB,Collection O Hotel Kiwi International,"Andheri East, Mumbai",Mumbai,,,hotel,,2094,INR,75,1.3
+OINBWNJZ,Druv's Taj Palace,"Near Asalpha Metro Station, Dhumai Estate, Mumbai",Mumbai,,,hotel,,2656,INR,686,3.7
+OIHEWCNG,Collection O Collection O Hotel Jayshree Domestic Airport,"Vile Parle East, Mumbai",Mumbai,,,hotel,,3127,INR,588,3.4
+OIRKZKBH,Hotel Blue Executive,"On main street, Near Saki Vihar complex, Sakinaka,Mumbai",Mumbai,,,hotel,,2772,INR,1875,5.0
+OIUDSFZB,Blue Pearl Residency,"On main street, Near Asalpha Metro Station, Ghatkopar, Mumbai",Mumbai,,,hotel,,1921,INR,995,5.0
+OIHWMLXH,Hotel Blue Sapphire Residency,"Near The Crescent Business Park, Sakinaka, Mumbai",Mumbai,,,hotel,,2220,INR,1144,5.0
+OIMPXEFB,Hotel Blue Sea,"On main street, Near Asalpha Metro Station, Ghatkopar, Mumbai",Mumbai,,,hotel,,1921,INR,2051,5.0
+OITWEUTZ,Super OYO Hotel Divine Residency,"Near Chirag Nagar Police Station, LBS Marg, Mumbai",Mumbai,,,hotel,,4069,INR,644,3.6
+OITQYIWD,Capital O Hotel Adore Palace,"Sakinaka Jharimari Link Road, Mumbai",Mumbai,,,hotel,,2092,INR,34,1.1
+OIIOKWKZ,Hotel Greenforest,"Near Axis Bank, Customs Colony, Mumbai",Mumbai,,,hotel,,2247,INR,664,3.7
+OINCXKOR,Capital O Hotel Pearl,"Near Wajan Kata Bus Stop, Indira Nagar, Mumbai",Mumbai,,,hotel,,2896,INR,119,1.5
+OIXVDERW,Anjali Hotel Mumbai,"Near Kanti Nagar, Andheri East, Mumbai",Mumbai,,,hotel,,2535,INR,477,2.9
+OIYKYJQA,Rana Residency,"Tolany Naka, Sher-e-Punjab Colony, Mumbai",Mumbai,,,hotel,,1916,INR,589,3.4
+OIKBGSEA,Flagship The Mumbai Inn,"The Mumbai Inn 90 Feet Road Next To Peninsula Near Tilak Nagar Gate Sakinaka Mumbai, Mumbai",Mumbai,,,hotel,,1863,INR,470,2.9
+OIPTQXLT,Royal Inn,"Near Jankidevi Public School Road, Varsova, Mumbai",Mumbai,,,hotel,,2740,INR,465,2.9
+OIDIXOPZ,Capital O Hotel Zaid International NEAR L&T Sakinaka & IIT POWAI,"Near Huntsman Building, Marol, Mumbai",Mumbai,,,hotel,,3273,INR,711,3.8
+OIOATVEW,Flagship Om Residency,"Near Ganesh nagar, Marol, Mumbai",Mumbai,,,hotel,,2530,INR,16,1.1
+OIYBXLIU,SPOT ON Yatra Inn,"Lalbagh, Bangalore",Bangalore,,,hotel,,1040,INR,2617,5.0
+OIPTFVTA,Townhouse 180 Jayanagar,"Near Sagar Hospital, Tilak Nagar, Bangalore",Bangalore,,,hotel,,1828,INR,3524,5.0
+OIUGMWQY,Super OYO Townhouse OAK Spruce Hotels A2 Indiranagar,"India, Bangalore",Bangalore,,,hotel,,1423,INR,253,2.0
+OIGDBCYR,Super OYO Collection O Sabharwal Residency,"Opposite Shanthinagar, Bangalore",Bangalore,,,hotel,,1410,INR,429,2.7
+OIJCSVUM,Townhouse Chic 364 Richmond Road,"Near Baldwin Women College, Richmond Town, Bengaluru",Unknown,,,hotel,,2082,INR,1457,5.0
+OITBAGSX,Hotel Townhall,"Near Dhanlakshmi Bank, JC Road, Bangalore",Bangalore,,,hotel,,1070,INR,1144,5.0
+OILAXIEH,Collection O Hotel Hemadri Residency,"Opp Saraswati Kalyana Mantapa, Bangalore",Bangalore,,,hotel,,872,INR,74,1.3
+OIZYQCDE,Super OYO Capital O Boulevard Elite Madiwala,"B T M Layout, Bangalore",Bangalore,,,hotel,,1365,INR,2664,5.0
+OILNFMEP,Sai Ram Residency,"Cubbonpet Main Road, Bangalore",Bangalore,,,hotel,,1092,INR,207,1.8
+OIHPWSYV,Super OYO  Design Oyo Townhouse OAK Clove Boutique Hotel Rajaji Nagar,"4th Block, Rajaji Nagar, Bangalore",Bangalore,,,hotel,,3053,INR,1360,5.0
+OINPFNAB,SPOT ON Hotel Relax Inn,"Banashankari 3rd Stage, Bangalore",Bangalore,,,hotel,,645,INR,69,1.3
+OIQKBFKI,Super OYO Townhouse 385 Navya International Ramamurthy Nagar,"Near Rammamurthynagar Police Station, Bangalore",Bangalore,,,hotel,,1274,INR,2655,5.0
+OIRMGXXI,Sree Balaji Residency,"Agrahara Dasarahalli, Rajaji Nagar, Bangalore",Bangalore,,,hotel,,907,INR,360,2.4
+OIQBUEZE,Super OYO Townhouse 238 Tierra Woods,"Halasuru, Bangalore",Bangalore,,,hotel,,2276,INR,1675,5.0
+OIKUFUIK,Capital O Champion Lotus,"Near IIFT, Vijayanagar, Bangalore",Bangalore,,,hotel,,1339,INR,1342,5.0
+OIWRRVAK,Capital O Premium Hotel Victoria Heights,"Near St.Philomena's Hospital, Xavier Layout, Bangalore",Bangalore,,,hotel,,1508,INR,957,4.8
+OINATBRM,Townhouse OAK SRK White Inn,"Koramangala, Bangalore",Bangalore,,,hotel,,1427,INR,1603,5.0
+OINNSPXH,Hotel Silver House,"Arghar Dasrahalli Near Madhu Hospital Opp Maharaja Tent House Reliance Smart Building Magadi Main Road, Bangalore",Bangalore,,,hotel,,844,INR,494,3.0
+OIYMNZML,Varcity Emerald,"Near KEB Colony, BTM Layout 1, Bangalore",Bangalore,,,hotel,,879,INR,1965,5.0
+OIKXFBOJ,Collection O Hotel Palm Tree,"Near Halasuru Metro Station, Ulsoor, Bangalore",Bangalore,,,hotel,,2566,INR,1271,5.0
+OIGBWAKU,Super OYO Townhouse 385 Navya International Ramamurthy Nagar,"Near Rammamurthynagar Police Station, Bangalore",Bangalore,,,hotel,,1274,INR,2655,5.0
+OIDJMTOQ,Collection O Hotel Tiara,"Tavarekere Main Rd, Bangalore",Bangalore,,,hotel,,1175,INR,644,3.6
+OIGDCWUM,Townhouse OAK SRK White Inn,"Koramangala, Bangalore",Bangalore,,,hotel,,1427,INR,1603,5.0
+OIFRDBQI,Sai Ram Residency,"Cubbonpet Main Road, Bangalore",Bangalore,,,hotel,,1092,INR,207,1.8
+OICOVVYJ,Super OYO Nar Comforts,"NAR Comforts,13, G.K temple street, opp. Vijayalaxmi theater, Chickpet, Bangalore",Bangalore,,,hotel,,1338,INR,1682,5.0
+OIUIQVWG,Flagship Hotel Royal Comfort,"Gandhinagar, Bangalore",Bangalore,,,hotel,,1357,INR,60,1.2
+OIYWJGPI,Super OYO Capital O Choice Regal Suites,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar, Bangalore",Bangalore,,,hotel,,1753,INR,1337,5.0
+OIOBLTPN,Capital O Champion Lotus,"Near IIFT, Vijayanagar, Bangalore",Bangalore,,,hotel,,1339,INR,1342,5.0
+OIMFRZCC,Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya, Bangalore",Bangalore,,,hotel,,1351,INR,1393,5.0
+OIDVMWXE,Hotel Silver House,"Arghar Dasrahalli Near Madhu Hospital Opp Maharaja Tent House Reliance Smart Building Magadi Main Road, Bangalore",Bangalore,,,hotel,,844,INR,494,3.0
+OIUIKMMT,Super OYO Flagship Vsv Avenue Hennur,"landmark Krishna Medical Store) Oposite Krishna Leela Grand Hotel, Bangalore",Bangalore,,,hotel,,1264,INR,299,2.2
+OIKSOQYL,Super OYO  Design Oyo Townhouse OAK Clove Boutique Hotel Rajaji Nagar,"4th Block, Rajaji Nagar, Bangalore",Bangalore,,,hotel,,3053,INR,1360,5.0
+OIKKUSKB,Collection O Hotel Palm Tree,"Near Halasuru Metro Station, Ulsoor, Bangalore",Bangalore,,,hotel,,2566,INR,1271,5.0
+OIMZZPTA,Townhouse 76427 Hotel Skyline,"B S K 2nd Stage, Bangalore",Bangalore,,,hotel,,1406,INR,352,2.4
+OIXQPOPV,Flagship HOTEL SKYSPACE,"Yeswantpur Near Railway Station, Bangalore",Bangalore,,,hotel,,1140,INR,358,2.4
+OICRCHUR,SPOT ON 810480 Canton Lodging And Boarding,"Karnataka, Bangalore",Bangalore,,,hotel,,872,INR,17,1.1
+OIPXAVCT,Collection O Onyx International,"Karnatakanull, Bangalore",Bangalore,,,hotel,,1334,INR,332,2.3
+OINFIAET,Mn Residency,"Madiwala,  South Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, - 560034, India Bangalore.",Bangalore,,,hotel,,1257,INR,1061,5.0
+OIVRXKQX,Home Leva Homes,"Mahadevapura Zone, Bangalore",Bangalore,,,hotel,,1236,INR,1013,5.0
+OIADEZNI,Super OYO Capital O Chetana Inn,"Centrally Located, Near Shanti Niketan School, Kodigehalli, Bangalore",Bangalore,,,hotel,,1352,INR,1549,5.0
+OIZXNDSK,Super OYO Capital O Choice Regal Suites,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar, Bangalore",Bangalore,,,hotel,,1753,INR,1337,5.0
+OIOYZWKY,Super OYO Capital O Blooms Stay Inn,"Bangalore Urban, Bangalore",Bangalore,,,hotel,,2063,INR,663,3.7
+OITDBOEW,Super OYO Townhouse 273 Hosur Main Road Bommanahalli,"Near krishna Theature Bommanahalli, Hosur main road, Bangalore",Bangalore,,,hotel,,2302,INR,1983,5.0
+OIIRHUWO,Nra Residency,"Rajarajeshwari Nagar, Bangalore",Bangalore,,,hotel,,759,INR,416,2.7
+OIFUKWOG,Super OYO Flagship Vsv Avenue Hennur,"landmark Krishna Medical Store) Oposite Krishna Leela Grand Hotel, Bangalore",Bangalore,,,hotel,,1264,INR,299,2.2
+OIYWLOKA,Super OYO Capital O SS Suites,Above Vishal Mega mart,Unknown,,,hotel,,1513,INR,1488,5.0
+OIWIFLZK,Collection O Nandi Comforts,"Yeshwantpur, Bangalore",Bangalore,,,hotel,,872,INR,52,1.2
+OIGJQUFD,Flagship Hotel Royal Comfort,"Gandhinagar, Bangalore",Bangalore,,,hotel,,1357,INR,60,1.2
+OIFMDBFB,Capital O Hotel Shanti Nivas,"Near Yeshwanthpur , Sri Raghavendra Layout, Bangalore",Bangalore,,,hotel,,1159,INR,807,4.2
+OIOUUCAF,Capital O Prime Residency,"Near Perseverance HBR, Saint Thomas Town, Bangalore",Bangalore,,,hotel,,1339,INR,795,4.2
+OISYZUUX,Capital O Safari Rooms,"India Bangalore Karnatakaindia, Bangalore",Bangalore,,,hotel,,1316,INR,160,1.6
+OIMIFEVO,Super OYO Capital O Chetana Clove,"Near Shanti Niketan School, Maruthinagar, Bangalore",Bangalore,,,hotel,,1397,INR,1653,5.0
+OIDVYMJB,Super OYO Collection O 85404 Valleyton Park,"Near Manyata Tech Park,HBR Layout,Outer Ring Road,Bangalore",Bangalore,,,hotel,,1261,INR,593,3.4
+OIHYRHTF,Townhouse 76427 Hotel Skyline,"B S K 2nd Stage, Bangalore",Bangalore,,,hotel,,1406,INR,352,2.4
+OIXPRJQX,Flagship HOTEL SKYSPACE,"Yeswantpur Near Railway Station, Bangalore",Bangalore,,,hotel,,1140,INR,358,2.4
+OIMLUBNS,SPOT ON Janapriya Lodge,"Bangalore Urban, Bangalore",Bangalore,,,hotel,,781,INR,372,2.5
+OIOBGCKW,Santa Maria,"Jeevan Bhima Nagar, Bangalore",Bangalore,,,hotel,,1384,INR,707,3.8
+OIZBZSWK,Super OYO Townhouse 149 Siri Residency,"Bhuvaneswari Nagar, Bangalore",Bangalore,,,hotel,,1716,INR,887,4.5
+OIJCWCRX,Super OYO Capital O High end Withinn Hotel,"Near NIAS, Mathikere Extension, Bangalore",Bangalore,,,hotel,,1873,INR,993,5.0
+OIYISEDW,Collection O Royal Elevar,"Dasarahalli, Bangalore",Bangalore,,,hotel,,1018,INR,630,3.5
+OIOCAPUK,Mn Residency,"Madiwala,  South Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, - 560034, India Bangalore.",Bangalore,,,hotel,,1257,INR,1061,5.0
+OITVQAVK,The Royal International Hotel,"Near Robert Bosch Company, Mangammanapalya, Bangalore",Bangalore,,,hotel,,1140,INR,822,4.3
+OIWOVTSP,SPOT ON 76191 Sahara Lodge,"Yeshwanthapura, Bangalore",Bangalore,,,hotel,,670,INR,353,2.4
+OINPMIED,Hotel Golden Arch,"Near Vijayanagar police station, MC Layout, Bangalore",Bangalore,,,hotel,,1077,INR,202,1.8
+OIUCTHIM,Collection O Onyx International,"Karnatakanull, Bangalore",Bangalore,,,hotel,,1334,INR,332,2.3
+OIUZARXS,Collection O Hotel Supreme Suites,"14/15 14 And 15 L V Complex Munireddy Layout Horamavu Banaswadi, Bangalore",Bangalore,,,hotel,,1023,INR,126,1.5
+OIWMQWTO,Collection O Hotel Status Executive Room's,"Near Old Airport Road, Bangalore",Bangalore,,,hotel,,1344,INR,39,1.2
+OIYSZDMW,Super OYO Collection O Ctc Gardenia Residency,"Opp Urvashi Theatre, Bangalore",Bangalore,,,hotel,,1921,INR,318,2.3
+OIMALJPD,SPOT ON Srinivasa Boarding And Lodging,"Near N R Colony, Sajjepalya, Bangalore",Bangalore,,,hotel,,670,INR,432,2.7
+OIKOWAIU,Flagship 37297 N R Deluxe,"Near Prashant Hospital, Bangalore",Bangalore,,,hotel,,649,INR,59,1.2
+OISOCXKX,Capital O N R Comforts,"Koramangala, Bangalore",Bangalore,,,hotel,,1095,INR,178,1.7
+OIQQOOKZ,Capital O Royal Manyata,"Gate Number 4, Bangalore",Bangalore,,,hotel,,1194,INR,854,4.4
+OIRZOJEH,Super OYO Townhouse 490 Indiranagar Extn,"Bangalore, Bangalore",Bangalore,,,hotel,,1473,INR,923,4.7
+OITVOLNV,Collection O Sln Suites,"Behind Baptist Hospital, Hebbal",Unknown,,,hotel,,1670,INR,244,2.0
+OIZSQAXG,Capital O Elite Stay Jp Nagar,"6th Phase, Bangalore",Bangalore,,,hotel,,1452,INR,926,4.7
+OINRFJSG,Flagship Sai Vishram,"26/1 sheshadri Road  Anandrao Circle Gandhi Nagar, Bangalore",Bangalore,,,hotel,,1061,INR,38,1.2
+OIZYAKIF,Super OYO Flagship Blooms Residency,"Bangalore East, Bangalore",Bangalore,,,hotel,,1800,INR,750,4.0
+OIPXVAHS,Royal Grand Residency,"Bangalore Karnataka, Bangalore",Bangalore,,,hotel,,1164,INR,586,3.3
+OIBDQWUH,Flagship Varcity Plaza,"Near Cross Road, Maruti Nagar, Bangalore",Bangalore,,,hotel,,1272,INR,588,3.4
+OIVEDYJO,18544 Amm Residency,"Mavalli, Bengaluru",Unknown,,,hotel,,1191,INR,2,1.0
+OISGWUQH,Townhouse 038 Global Wings Hotels,"Kammanahalli, Bangalore",Bangalore,,,hotel,,1517,INR,675,3.7
+OIKLFKDM,Flagship Gn Nelli Rooms,"Bengalore-43, Bangalore",Bangalore,,,hotel,,1050,INR,240,2.0
+OISNJQRO,Townhouse OAK Hotel Prime,"Near Karnataka Bank, Babusapalya Main Road, Bangalore",Bangalore,,,hotel,,2061,INR,917,4.7
+OIGMJAJZ,Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya, Bangalore",Bangalore,,,hotel,,1351,INR,1393,5.0
+OIYNTAFG,Hotel Fiesta Grand,"Near Mariyappa Road, Jayanagar Ward, Bangalore",Bangalore,,,hotel,,1262,INR,225,1.9
+OINIFGFN,Collection O Tierra Woods,"Bangalore , Bangalore",Bangalore,,,hotel,,1628,INR,102,1.4
+OIHBAKUT,Flagship 79381 DM Residency,"Rajarajeshwari Nagar Zone, Bangalore",Bangalore,,,hotel,,977,INR,179,1.7
+OIMBWBOQ,Flagship 811000 Atithi Comforts,"Yeshwantpur, Bangalore",Bangalore,,,hotel,,981,INR,6,1.0
+OIZFHTTB,Royal Inn,"Near 14th Main Road, Rajaji Nagar, Bangalore",Bangalore,,,hotel,,988,INR,278,2.1
+OIVFBEIY,Flagship 810144 Sunder Nivas,"Yeshwantpur, Bangalore",Bangalore,,,hotel,,911,INR,28,1.1
+OIYPGUUX,Super OYO Capital O King Suites -hennur,"East Zone, Bangalore",Bangalore,,,hotel,,1293,INR,164,1.7
+OIDLQSXL,Super OYO Capital O Savi International,"Near Mantri Square Mall, Sheshadripuram, Bangalore",Bangalore,,,hotel,,2099,INR,1044,5.0
+OISOCULW,Hotel Diva Residency,"Near Syndicate Bank, Gandhi Nagar, Banglore",Unknown,,,hotel,,1228,INR,20,1.1
+OIEQHMSL,Home Exotic Stay Bsk 3rd Stage,"Katriguppe, Bangalore",Bangalore,,,hotel,,1282,INR,568,3.3
+OIMKKETX,Flagship Pride Inn,"14 Cross Hosur Main Road, Bangalore",Bangalore,,,hotel,,1289,INR,373,2.5
+OIVYQWIP,Hotel Turista,"Near Central Silk board, BTM Layout, Bangalore",Bangalore,,,hotel,,910,INR,1086,5.0
+OIKBJQJW,Super OYO Flagship Majestic,"Near Majestic Railway Station, Akkipete, Bangalore",Bangalore,,,hotel,,1509,INR,1158,5.0
+OIJGHYDJ,Home Leva Homes,"Mahadevapura Zone, Bangalore",Bangalore,,,hotel,,1236,INR,1013,5.0
+OIIJGCIC,Capital O Gn Suites,"Near Sub Registrar ice, Banaswadi, Bangalore",Bangalore,,,hotel,,1734,INR,771,4.1
+OIKICAIJ,Townhouse 093 Ramamurthy Nagar,"Near Ramamurthy Nagar Signal, Bangalore,Karnataka",Bangalore,,,hotel,,1901,INR,769,4.1
+OILGWBPW,Collection O 812451 The Grand Budget Hotel,"Karnataka , Bangalore",Bangalore,,,hotel,,1536,INR,93,1.4
+OITINUUF,Flagship My Own Nest,"Near Srinivasa Temple, Bangalore",Bangalore,,,hotel,,1342,INR,223,1.9
+OIUUAYHQ,Flagship 5590 Ujwal Residency,"Near Indian Oil Petrol Bunk, Divanarapalya, Bangalore",Bangalore,,,hotel,,1179,INR,20,1.1
+OITOMRMY,Flagship 810304 New Pavithra Paradise,"No 462 3rd Phase 3rd Block Havanur Circle Basaveshwaranagar Bangalore, Bangalore",Bangalore,,,hotel,,1071,INR,278,2.1
+OIETQQHW,Sri Sai Guru Comforts,"Near Kodigihalli Gate, Byatarayanapura, Bangalore",Bangalore,,,hotel,,1159,INR,75,1.3
+OINGYGRN,Flagship Elite Stay,"Jp Nagar, Bangalore",Bangalore,,,hotel,,1392,INR,14,1.1
+OIKYUZJQ,SPOT ON 810681 Vasavi Residency,"Bangalor, Bangalore",Bangalore,,,hotel,,725,INR,27,1.1
+OIQZYKOA,Flagship 810484 Royal Galaxy Lodge,"05th road cross Iblur bus stop. opposite Colombia asia hospital.sarjapur outer ring road. , Bangalore",Bangalore,,,hotel,,743,INR,661,3.6
+OIIMCBLL,Capital O 70991 Prime Square,"Centrally Located, Near Kalyan Nagar Bus Stand, 1st stage, Bangalore",Bangalore,,,hotel,,1377,INR,231,1.9
+OILADNZA,Royal Residency,"Near Taj Yeshwantpur, M S K Nagar, Bangalore",Bangalore,,,hotel,,1088,INR,254,2.0
+OIFBWCBZ,8501 ABHIMAANI COMFORTS,Kanakpura main road metro pillar number 45 nearby Banashankari metro station JP Nagar,Unknown,,,hotel,,1403,INR,271,2.1
+OIOQWIMI,Flagship S M Residency,"Nagarbhavi, Bangalore",Bangalore,,,hotel,,1276,INR,14,1.1
+OIDFOSLE,Flagship Sree Nandanam Residency,"Bengaluru, Bangalore",Bangalore,,,hotel,,1014,INR,837,4.3
+OIYJUWEB,Townhouse 076 Hebbal,"Dasarahalli, Bangalore",Bangalore,,,hotel,,1950,INR,514,3.1
+OIMRQZXM,Super OYO Exotica Hotels,"Near Jayadeva Flyover, BTM Layout, Bangalore",Bangalore,,,hotel,,1876,INR,126,1.5
+OIKTRISY,Flagship V R Residency,"Centrally Located, Near 4th block, HBR Layout, Bangalore",Bangalore,,,hotel,,1398,INR,96,1.4
+OIKGDNUP,Collection O 62387 Emara Grand Hotel,"H S R Layout, Bangalore",Bangalore,,,hotel,,2489,INR,8,1.0
+OIJPZWJE,Flagship 80878H Century Gardens,"Bengaluru, Bangalore",Bangalore,,,hotel,,1412,INR,203,1.8
+OIGAPOVZ,Hotel Telehaus International,"Near Karnataka Bank, Shanti Nagar, Bangalore",Bangalore,,,hotel,,2099,INR,99,1.4
+OIHTKRFU,Townhouse 078 DODDA BANASWADI,"Near Udupi Upachar, Lakshmamma Layout, Bangalore",Bangalore,,,hotel,,2082,INR,287,2.1
+OIWORKHR,Flagship Hotel Amster Inn,"Near Mysore RD. Metro Station, FCI Layout, Bangalore",Bangalore,,,hotel,,1500,INR,1,1.0
+OIXDYAZQ,Collection O 812391 Sri Skanda Inn,"Venugopal Reddy Layout, Bangalore",Bangalore,,,hotel,,1384,INR,4,1.0
+OIRNUTLJ,Collection O B Six Hotel,"Kalasipalyam Main Road, Bangalore",Bangalore,,,hotel,,2392,INR,159,1.6
+OIEDFLAF,Flagship 810923 Hotel Shiva International,"Bangalore, Bangalore",Bangalore,,,hotel,,1286,INR,13,1.1
+OIPDKSKQ,Collection O Fortune Rooms,"Karnataka , Bangalore",Bangalore,,,hotel,,1538,INR,14,1.1
+OIGBATTD,Collection O Ira International Boutique Hotel,"India, Bangalore",Bangalore,,,hotel,,2211,INR,7,1.0
+OINCENKY,Flagship 81138 Gm royals,"Karnataka, Bangalore",Bangalore,,,hotel,,643,INR,13,1.1
+OIKXJLRE,Collection O Metro O Comforts,"JP Nagar Metro Station, JP Nagar, Bangalore",Bangalore,,,hotel,,1566,INR,23,1.1
+OIRMYIBG,Flagship 810805  My Own Nest II Ramamurthy Nagar,"Devki Apparao Layout, Bangalore",Bangalore,,,hotel,,1442,INR,90,1.4
+OIYGQNRJ,Palette - Hotel Metro View Inn,"India, Bangalore",Bangalore,,,hotel,,2601,INR,9,1.0
+OIWOVUCQ,Flagship 69693 The Royal Park,"Near OYE Amritsar, New Tippasandra, Banglore",Unknown,,,hotel,,2339,INR,1,1.0
+OIHLQAGF,Flagship 44601 Cloud Stay,"Near Sai Baba Temple, Kudlu Gate, Bangalore",Bangalore,,,hotel,,1773,INR,417,2.7
+OILFWDDO,Collection O 809961 New Royal Serenity Inn,"India , Bangalore",Bangalore,,,hotel,,1772,INR,1248,5.0
+OIMEOQCM,Super OYO Flagship Archana Inn,"Near Minerva Circle, JC Road, Bangalore",Bangalore,,,hotel,,1189,INR,137,1.5
+OIILFQKG,Collection O Premium Eden Au Lac,"Near Indiranagar Police Station, Indiranagar, Bangalore",Bangalore,,,hotel,,1953,INR,200,1.8
+OIQAWSNG,Flagship 92604 Sp Residency,"Btm 2nd Stagenull, Bangalore",Bangalore,,,hotel,,890,INR,185,1.7
+OIYNRYSB,Flagship NR Residency,"Near Teacher's colony Park, Jakkasandra, Bangalore",Bangalore,,,hotel,,1050,INR,249,2.0
+OIFNYEEP,Flagship 7558 Galaxy Inn,"Shivaji Nagar, Bangalore",Bangalore,,,hotel,,1781,INR,63,1.3
+OIRKCHZK,Nr Royal,"Sector 6, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka",Bangalore,,,hotel,,1272,INR,1273,5.0
+OIZMAYSL,Flagship 13043 SREE SAI SUITES,"Near SBI Bank, RT Nagar Main Road, Bangalore",Bangalore,,,hotel,,1672,INR,2372,5.0
+OIMOYYVZ,Super OYO Flagship Olivia Comforts,"Near Eat Street, Kormangala, Bangalore",Bangalore,,,hotel,,2717,INR,4151,5.0
+OIKDIYOO,Super OYO Collection O Compact Green View,"Near Ejipura Bus stand, Ashwini Layout, Bangalore",Bangalore,,,hotel,,598,INR,1101,5.0
+OIIUPVAM,Super OYO Flagship Varcity Phi Premium Pavilion,"B T M Layout, Bangalore",Bangalore,,,hotel,,1361,INR,1995,5.0
+OIOXTJUW,Flagship White Fort,"Dispensary Rd, Kalasipalya,Bangalore",Bangalore,,,hotel,,572,INR,1762,5.0
+OILEZXRA,Capital O Elegant Amethyst Business Hotel,"5th Block, Jayanagar, Bangalore",Bangalore,,,hotel,,576,INR,1434,5.0
+OINYCTYJ,Super OYO Hotel Subha Residency,"Majestic, Bangalore",Bangalore,,,hotel,,677,INR,431,2.7
+OIOANPNK,Capital O Victorian Comforts,"Near Adams Creation, Victoria Layout, Bangalore",Bangalore,,,hotel,,581,INR,165,1.7
+OIXYDYBN,Flagship Hotel Gurudev Residency,"Gandhi Nagar, Bangalore",Bangalore,,,hotel,,1519,INR,1004,5.0
+OIOYIASE,SPOT ON Hotel Sri Thirumala Lodge,"Opp BHEL, Bangalore",Bangalore,,,hotel,,960,INR,888,4.6
+OIDRLIUJ,Collection O Naidu Palace,"Near Dhobi Ghat junction, Rajajinagar, Bangalore",Bangalore,,,hotel,,1066,INR,103,1.4
+OIXOZJWI,Super OYO Townhouse 258 Spruce Hotels Bellandur,"Bellandur, Bangalore",Bangalore,,,hotel,,819,INR,129,1.5
+OIMRZBMP,Collection O 808132 Status Suites,"Bangalore , Bangalore",Bangalore,,,hotel,,768,INR,798,4.2
+OIXSCOLU,Exotic Stay Bg Road,"Bangalore Urban, Bangalore",Bangalore,,,hotel,,699,INR,2919,5.0
+OIWEDNUI,SPOT ON A Class Suites,"Bangalore Urban, Bangalore",Bangalore,,,hotel,,599,INR,943,4.8
+OIOVYKWP,Varcity Park,"Near SV Hospitals, Madiwala, Bangalore",Bangalore,,,hotel,,576,INR,562,3.2
+OIBDIZRB,Flagship Aayush Corporate Stays,"Near Maharaja Signal, Kormangala, Bangalore",Bangalore,,,hotel,,576,INR,709,3.8
+OIGBYSDP,Shree Mookambika Guest House,"Kormangla, Bangalore",Bangalore,,,hotel,,549,INR,1086,5.0
+OIHIQBNL,Corner Golf View,"Domlur, Bangalore",Bangalore,,,hotel,,808,INR,1320,5.0
+OIARDJFB,Home Shiva Shakthi Inn,"J P Nagar, Bangalore",Bangalore,,,hotel,,899,INR,2881,5.0
+OIEGLZVV,Super OYO Hotel Resida Elite Service Apartments,"Near Domlur Bridge, Indiranagar, Bangalore",Bangalore,,,hotel,,1049,INR,140,1.6
+OIGRGQNB,Super OYO Townhouse 610 Derawal Nagar,"Near Vinayak Hoptiat, Gujranwala Town, Delhi",Delhi,,,hotel,,2011,INR,3508,5.0
+OIAYNOHW,Shubh Guest House,"C1/64 Main Sarvice Road Soniya Vihar 3 Rd Pusta, Delhi",Delhi,,,hotel,,1002,INR,337,2.3
+OIJUIPYB,Townhouse 868 Dream Connect,"Wz-3 Opp Pillor No 322 Moti Nagar Delhi, Delhi",Delhi,,,hotel,,1282,INR,61,1.2
+OIJFSKWK,Blue Diamond,"Opp. Metro Pillar No. 102, Near Sai Baba Mandir, Adarsh Nagar, Delhi",Delhi,,,hotel,,921,INR,864,4.5
+OIGNOKKJ,Flagship Hotel Diamond Tree,"New Delhi, Delhi",Delhi,,,hotel,,1252,INR,848,4.4
+OIQBOELZ,The Chill Palace,"North West Delhi, Delhi",Delhi,,,hotel,,1552,INR,4273,5.0
+OIOFXNYG,Flagship The Mayur Hotel,"Tri Nagar, Delhi",Delhi,,,hotel,,1441,INR,170,1.7
+OIGEEKDW,Hotel Landmark Inn,Near Karol Bagh Metro Station,Unknown,,,hotel,,576,INR,249,2.0
+OIMQQRLK,Flagship Hotel Happy Moments,"Near Divine Hospital, Delhi",Delhi,,,hotel,,759,INR,735,3.9
+OISTZHFU,Collection O Radisson Blue Hotel Nearby Khajuri chowk-Signature Bridge,"Bhajanpura, Delhi",Delhi,,,hotel,,643,INR,427,2.7
+OISHWRVT,Flagship Kashish Residency,"Ashok Vihar-3, Delhi",Delhi,,,hotel,,1048,INR,180,1.7
+OICMPKVC,Flagship 812491 Hotel Siddhartha Guest House,"Seelampur, Delhi",Delhi,,,hotel,,811,INR,75,1.3
+OIQVUTTN,Hotel New Tech India,"Near Jhandewalan, Nai Walan, Delhi",Delhi,,,hotel,,845,INR,23,1.1
+OIZEJHWJ,Flagship Sr Residency,"Block B, Delhi",Delhi,,,hotel,,549,INR,49,1.2
+OIQZZSYU,Home Hotel New Singh,"Near Metro Pillar No 103, Delhi",Delhi,,,hotel,,899,INR,342,2.4
+OICKGRQM,81212 White House Residency,"108,Street Number 3, Shalimar Bagh Village, New Delhi",Delhi,,,hotel,,839,INR,168,1.7
+OIYETWMM,Flagship 810701 Mayura Residency,"Maharam Mohalla, Delhi",Delhi,,,hotel,,966,INR,2171,5.0
+OITWOQBF,Townhouse 816 The Diamond Tree,D-75 near dilshad garden metro station,Unknown,,,hotel,,576,INR,1289,5.0
+OIKGBHQL,Hotel Prince,"Haiderpur Village, Delhi",Delhi,,,hotel,,666,INR,769,4.1
+OIDMBQQD,Flagship Hotel Grow More,"East Babarpur, Delhi",Delhi,,,hotel,,951,INR,610,3.4
+OIUBOZGT,Super OYO Townhouse 057 Gujranwala Town,"Tehsil, Delhi",Delhi,,,hotel,,996,INR,545,3.2
+OIGGVHGT,Hotel J Joy,"MAIN FAIZ ROAD  Above SBI BANK), KAROL BAGH",Unknown,,,hotel,,1321,INR,1807,5.0
+OIVIRGYC,Hotel Sun City,"Near Karol Bagh, Channa Market, Delhi",Delhi,,,hotel,,799,INR,103,1.4
+OISWKWPE,Sushma Ssadan,"Sawan Park Ashok Vihar Phase 3 Model Town Tehsil, Delhi",Delhi,,,hotel,,1384,INR,15,1.1
+OIZEOOWV,Flagship 2064 Hotel The Spot,"New Delhi, Delhi",Delhi,,,hotel,,599,INR,118,1.5
+OIKRLJTP,Hotel City Castle,"Near Karol Bagh, Nai Walan, Delhi",Delhi,,,hotel,,916,INR,17,1.1
+OIWMDFNV,Flagship Hotel S Inn,"Paharganj New Delhi, Delhi",Delhi,,,hotel,,575,INR,11,1.0
+OIEHBKUR,Flagship 81012 S P Rooms,"Mahendra Park, Delhi",Delhi,,,hotel,,1768,INR,148,1.6
+OIGMLRPL,Kochar Plaza,"Near Liberty Cinema, New Rohtak Rd, Delhi",Delhi,,,hotel,,1084,INR,43,1.2
+OIMTWCKW,Flagship 810341 Hotel Royal Plaza,"wz 523/1 bali nagar extension, Delhi",Delhi,,,hotel,,1794,INR,7,1.0
+OIYXKLYC,Collection O 811864 Hotel Aura Stay,"Paharganj, Delhi",Delhi,,,hotel,,776,INR,62,1.2
+OIWGWUUA,Flagship Hotel Happiness Inn,"Karampura, Delhi",Delhi,,,hotel,,1236,INR,4,1.0
+OIYSMCPB,Flagship 810642 Hotel KD Homes,"wazirabad near book shop opposite mohalla clinic Delhi, Delhi",Delhi,,,hotel,,1115,INR,36,1.1
+OIHYNTZU,Ms Residency,"Near to Aarash nagar metro station pillar no:-104, Delhi",Delhi,,,hotel,,1490,INR,65,1.3
+OIEOBVAK,Flagship 35359 Hotel Victoria Dx,"Near New Delhi Railway Station, Delhi",Delhi,,,hotel,,851,INR,17,1.1
+OIKBUJDB,811030 Ocean Guest House,"Brij Puri, Delhi",Delhi,,,hotel,,1156,INR,28,1.1
+OIGRQEXT,Flagship 81042 Step Inn International,"Delhinull, Delhi",Delhi,,,hotel,,1152,INR,2,1.0
+OILWKQNW,Flagship Hotel Sun Shine,"Shakarpur Main Market, Delhi",Delhi,,,hotel,,1005,INR,913,4.7
+OILYQCJJ,Flagship 811700 Hotel Iconiic Residency Inn,"Old Rajendra Nagar delhinull, Delhi",Delhi,,,hotel,,1156,INR,325,2.3
+OIAPLCUY,Flagship 811671 Hotel Swagat Dx,"New Delhi, Delhi",Delhi,,,hotel,,910,INR,310,2.2
+OICZBYEB,78699 Hotel Klick International,", Delhi",Delhi,,,hotel,,807,INR,28,1.1
+OIGGDKIR,Collection O Hotel Ambience,"Near New Delhi Railway Station, Delhi",Delhi,,,hotel,,583,INR,197,1.8
+OIZGYTNI,Hotel Delhi Delight,"Near Sarai Rohilla Railway Station, Delhi",Delhi,,,hotel,,1996,INR,102,1.4
+OICSKXUF,Flagship Hotel V K Stay,"Aarakashan Road  near Delhi Railway Station), Delhi",Delhi,,,hotel,,1360,INR,1036,5.0
+OIQEJLQG,Kl Khari,"Industrial Area, Delhi",Delhi,,,hotel,,899,INR,992,5.0
+OINURVHM,Shoolin Residency,"Near M2k Cinema, Delhi",Delhi,,,hotel,,770,INR,3198,5.0
+OINLAMAS,Flagship Dream Inn,"Chander Vihar Near Aggarwal Sweets East Delhi, Delhi",Delhi,,,hotel,,651,INR,17,1.1
+OITLIUVI,Townhouse 511 Prakash continental,"Netaji Subash Palace, Delhi",Delhi,,,hotel,,1670,INR,651,3.6
+OIOHDUBB,Hotel Sun Palace,"Karol Bagh, Delhi",Delhi,,,hotel,,1000,INR,787,4.1
+OIGLSDNT,Townhouse 118 Gagan Vihar,"Near RG Stone hospital , Hargobind Enclave, Delhi",Delhi,,,hotel,,1004,INR,10,1.0
+OIFILWHR,Flagship 80769 Seven Heaven,"B-54 Lawrence Road Industrial Area Near Lawrence Road, Delhi",Delhi,,,hotel,,1670,INR,311,2.2
+OIQDRQBG,Capital O Season Grand,Near Pitampura metro station,Unknown,,,hotel,,799,INR,560,3.2
+OIPDFPTK,74596 Dream Town,"Shahdara, Delhi",Delhi,,,hotel,,1444,INR,389,2.6
+OIPQWLTN,Flagship 812357 Hotel Landmark Deluxe,"Karol Bagh, Delhi",Delhi,,,hotel,,2101,INR,18,1.1
+OITJSAWQ,Flagship King Stay,"Block N, Delhi",Delhi,,,hotel,,1414,INR,113,1.5
+OIKZOFQU,Flagship Hotel BR International,"Paharganj, Delhi",Delhi,,,hotel,,581,INR,31,1.1
+OIWICQLX,Hotel Bramhaputra,"Centrally Located, Near New Delhi Railway Station, Delhi",Delhi,,,hotel,,599,INR,171,1.7
+OIHQYZCF,Flagship 27928 Hotel Vintage,"Near RK Ashram Metro station, Delhi",Delhi,,,hotel,,549,INR,235,1.9
+OIVEAHZJ,Flagship Ram Bnb,"Faiz Road Karol Bagh New Delhi, Delhi",Delhi,,,hotel,,1029,INR,606,3.4
+OIQAWYXI,Flagship 80289 Hotel Neha Inn,"Paharganj  near Delhi Railway Station)null, Delhi",Delhi,,,hotel,,1628,INR,16,1.1
+OIAYCIWM,Flagship Hotel Cozzy Homes Stay,"Raje Der Nagar, Delhi",Delhi,,,hotel,,770,INR,98,1.4
+OIVRIDUV,Flagship Rs Hotels,"Shiva Market, Delhi",Delhi,,,hotel,,910,INR,757,4.0
+OIVDYZHV,Townhouse 1130 262 Kailash Enclave,"Harsh Vihar, Delhi",Delhi,,,hotel,,576,INR,551,3.2
+OISVDWEE,Flagship 66745 Le Orange,"8880-81, Gali Number 2, Multani Dhanda, Paharganj, New Delhi, Delhi - 110055",Delhi,,,hotel,,1345,INR,918,4.7
+OIEWJGLS,Le Alfanso,"Near New Delhi Railway Station, Delhi",Delhi,,,hotel,,599,INR,2,1.0
+OIGZIWYH,Hotel Park View,"Near Adarsh nagar, Matmy Memar, Delhi",Delhi,,,hotel,,957,INR,1343,5.0
+OIKGVWUU,Flagship Green High,"NEAR FRUIT POWER, Laxmi Nagar Metro Station, Delhi",Delhi,,,hotel,,839,INR,29,1.1
+OIAIGKVL,Townhouse 286,"Near Pitampura Metro Station, Delhi",Delhi,,,hotel,,744,INR,82,1.3
+OIIGUXBS,Flagship 69760 Hotel Anchal Deluxe,"Near New Delhi Railway Station, Delhi",Delhi,,,hotel,,731,INR,722,3.9
+OIKKYCFO,Collection O Ramji 7 Grand,"Near Kirti Nagar Metro Station, Delhi",Delhi,,,hotel,,852,INR,1020,5.0
+OIUTRUUZ,Collection O Metro View Ashok Vihar,"Pocket C 1, Delhi",Delhi,,,hotel,,1481,INR,82,1.3
+OIVWIIZC,Flagship 81569 The Red Rose Inn,"India, Delhi",Delhi,,,hotel,,677,INR,856,4.4
+OIXKEWNN,Hotel Grand Peepal,"Near Karol Bagh metro, WEA, Delhi",Delhi,,,hotel,,1005,INR,6,1.0
+OISFICWE,Hotel J P Inn,"Near Patel Nagar Metro, Block 1, Delhi",Delhi,,,hotel,,1360,INR,80,1.3
+OIKJPGXA,Flagship R K Residency,"488/5a Mcd Primary School Dilshad Garden, Delhi",Delhi,,,hotel,,549,INR,319,2.3
+OIFZYPCY,Meet You There Shakarpur,"Shakarpur Laxmi Nagar Metro, Delhi",Delhi,,,hotel,,1767,INR,395,2.6
+OIPCIHFQ,Hotel City Plaza,"Near Laxmi Nagar, Delhi",Delhi,,,hotel,,1360,INR,757,4.0
+OIASFEVY,Flagship Hotel R.k,"Near South Ganesh Nagar, Delhi",Delhi,,,hotel,,996,INR,31,1.1
+OIQEFUPO,Collection O Hotel Green Palace,"H.no.-a3 Block A Jagat Puri Red Light Near Sbi Bank Jagat Puri East Delhi, Delhi",Delhi,,,hotel,,595,INR,15,1.1
+OIEGCNIN,Super OYO 703579 Flagship Santosh Residency,"Vishwas Nagar, Delhi",Delhi,,,hotel,,1414,INR,166,1.7
+OIHLVHEX,Hotel Park View,"Near Adarsh nagar, Matmy Memar, Delhi",Delhi,,,hotel,,1767,INR,6,1.0
+OIUQGDIP,Flagship 80289 Hotel Neha Inn,"Paharganj  near Delhi Railway Station)null, Delhi",Delhi,,,hotel,,731,INR,4,1.0
+OINYMUXS,Flagship 81012 S P Rooms,"Mahendra Park, Delhi",Delhi,,,hotel,,1360,INR,4,1.0
+OITTFLIZ,Hotel Crown Continental,"11005, Delhi",Delhi,,,hotel,,800,INR,53,1.2
+OIKKUZEN,Hotel City Plaza,"Near Laxmi Nagar, Delhi",Delhi,,,hotel,,1257,INR,65,1.3
+OICRJGHX,Collection O 811248 Hotel Crystal Stay,"old Arjun Nagar, Delhi",Delhi,,,hotel,,1705,INR,38,1.2
+OILGSIXB,811030 Ocean Guest House,"Brij Puri, Delhi",Delhi,,,hotel,,996,INR,262,2.0
+OIOTLUZY,804648 Hotel SP Deluxe,"Near Gurudwara Shri Bangla Sahib, New Delhi",Delhi,,,hotel,,1226,INR,864,4.5
+OIVVEZNF,Flagship Hansa Residency,"Laxmi Nagar, Delhi",Delhi,,,hotel,,852,INR,18,1.1
+OIKNUJMA,Flagship Hotel Dp Palace,"Delhi, Delhi",Delhi,,,hotel,,1449,INR,12,1.0
+OIRPDUTO,Flagship 18618 Ocean Blue Residency,"A-14 Pridarshni Vihar Laxminagar, Delhi",Delhi,,,hotel,,1943,INR,5,1.0
+OILWEXMK,The Chill Palace,"North West Delhi, Delhi",Delhi,,,hotel,,1314,INR,141,1.6
+OIYIBQUB,Flagship 27928 Hotel Vintage,"Near RK Ashram Metro station, Delhi",Delhi,,,hotel,,1481,INR,16,1.1
+OIOQXVRY,Flagship 805147 Hotel Sona International,"Paharganj  near Delhi Railway Station)null, Delhi",Delhi,,,hotel,,1360,INR,33,1.1
+OINUDYFK,Flagship 811430 Hotel Mayur Inn,"B-3 Near DA BLOCK SHALIMAR VILLAGE, Delhi",Delhi,,,hotel,,1334,INR,3,1.0
+OITHUAYX,Hotel Emporio,"Near Shela Cinema, DB Gupta Road, Delhi",Delhi,,,hotel,,989,INR,82,1.3
+OIXDYYEQ,Flagship 66745 Le Orange,"8880-81, Gali Number 2, Multani Dhanda, Paharganj, New Delhi, Delhi - 110055",Delhi,,,hotel,,696,INR,141,1.6
+OIWHKETC,Flagship Deva Guest House,"Ganga Enclave Delhi, Delhi",Delhi,,,hotel,,1360,INR,65,1.3
+OIZCAEIZ,Flagship 811181 Golden Key Inn,"plot no 341 Shalimar village opposite railway live, Delhi",Delhi,,,hotel,,2048,INR,12,1.0
+OIRXQZKA,Flagship R K Residency,"488/5a Mcd Primary School Dilshad Garden, Delhi",Delhi,,,hotel,,632,INR,22,1.1
+OIURRSCM,Hotel Emporio,"Near Shela Cinema, DB Gupta Road, Delhi",Delhi,,,hotel,,909,INR,125,1.5
+OIYAKCUW,Flagship Hansa Residency,"Laxmi Nagar, Delhi",Delhi,,,hotel,,2306,INR,33,1.1
+OIARHMHS,Flagship 805147 Hotel Sona International,"Paharganj  near Delhi Railway Station)null, Delhi",Delhi,,,hotel,,2190,INR,72,1.3
+OIVVNIVE,Flagship 83552 Anchal Guest House,"India, Delhi",Delhi,,,hotel,,2048,INR,38,1.2
+OIBFMDYM,Collection O 811806 Orange Saffron,"Shakurpurnull, Delhi",Delhi,,,hotel,,799,INR,132,1.5
+OIIQAEKP,Hotel Town,Near Karol bagh metro station,Unknown,,,hotel,,1470,INR,191,1.8
+OIPLUOVZ,Flagship Deva Guest House,"Ganga Enclave Delhi, Delhi",Delhi,,,hotel,,576,INR,263,2.1
+OIWIRRBE,Flagship Hotel Hans Dx,"Paharganj  near Delhi Railway Station), Delhi",Delhi,,,hotel,,1195,INR,262,2.0
+OIDYGONR,Flagship Hotel Dp Palace,"Delhi, Delhi",Delhi,,,hotel,,1130,INR,6,1.0
+OILQRTPQ,SPOT ON Shyam Palace,"Near R K Ashram Metro Station, Pahar Ganj, Delhi",Delhi,,,hotel,,1817,INR,9,1.0
+OIIIDFQR,Capital O Hotel Sunberry,"New Delhi, Delhi",Delhi,,,hotel,,859,INR,62,1.2
+OIIWQLFG,80168 Green Villa,"Near KOSMOS Hospital, Anand Vihar, Delhi C-61 Above SBI Bank",Delhi,,,hotel,,1049,INR,123,1.5
+OIADIREM,Flagship 18618 Ocean Blue Residency,"A-14 Pridarshni Vihar Laxminagar, Delhi",Delhi,,,hotel,,626,INR,1,1.0
+OIQHBKBV,Flagship 80919 Hotel Vinayaka Inn,", Delhi",Delhi,,,hotel,,1692,INR,3577,5.0
+OIWIRWYM,Flagship Hotel City Heart,"Paharganj , Delhi",Delhi,,,hotel,,949,INR,138,1.6
+OIZPDKCI,TOWNHOUSE  R K Residency,"Flat No 3 Near Fair Deal South Ganesh Nagar, Delhi",Delhi,,,hotel,,1820,INR,115,1.5
+OILUMUZZ,Collection O Dayz Inn Deluxe,"B Block Lawrence Road Industrial Area Near Keshavpuram Fire Station Delhi 110035, Delhi",Delhi,,,hotel,,449,INR,270,2.1
+OIPPNSDV,Flagship 80818 Hotel Metro Inn,"Aram Bagh Paharganj Delhi, Delhi",Delhi,,,hotel,,1045,INR,2846,5.0
+OIDKRGCM,SPOT ON Hotel Silver Palace Dx,"Near RK ASHRAM METRO STATION, Pahar Ganj, Delhi",Delhi,,,hotel,,1008,INR,72,1.3
+OIRDOZST,SPOT ON 812212 Country Residency,"Laxmi Nagar, Delhi",Delhi,,,hotel,,918,INR,22,1.1
+OIBAOFBU,Flagship Kashish Residency,"single storey, Delhi",Delhi,,,hotel,,953,INR,352,2.4
+OIYKMQYT,Townhouse 738 Family In,"Raj Block Naveen Shahdara Delhi, Delhi",Delhi,,,hotel,,1130,INR,1215,5.0
+OICLKLGT,Super OYO Collection O Shalimar Bagh,"Shalimar Village, Delhi",Delhi,,,hotel,,1668,INR,3,1.0
+OIZLEAFX,Flagship Hotel Signature Village,"Near KD Campus, Gali No. 6A, Gopalpur Village",Unknown,,,hotel,,1793,INR,2,1.0
+OIWITFDV,Flagship Good Will,"Gobind Mohalla, Delhi",Delhi,,,hotel,,1142,INR,2,1.0
+OIUQNDGH,Flagship 84596 Hotel North Campus,"Civil Lines Tehsilnull, Delhi",Delhi,,,hotel,,1788,INR,1,1.0
+OIOPOQRZ,Flagship 811530 Bed Box,"gali no 1 kamla nagar, Delhi",Delhi,,,hotel,,1232,INR,34,1.1
+OIWDPYCF,Collection O Model Town Metro View,"Near Model Town Metro Station, Delhi",Delhi,,,hotel,,1262,INR,7286,5.0
+OIZZTJET,Flagship 79243 Hotel Greenwoods,"Paharganj, Delhi",Delhi,,,hotel,,1036,INR,324,2.3
+OIYWBGBA,Flagship 811844 Yes Sir Guest House,"PAHARGANJ, Delhi",Delhi,,,hotel,,777,INR,1945,5.0
+OINBSFWE,SPOT ON Jain House,"Near East Azad Nagar, Azadnagar, Delhi",Delhi,,,hotel,,1747,INR,1925,5.0
+OIBEDJBY,Flagship 811980 Hotel Rainbow,"Block A kewal park extension opposite metro pillar number 78 Azadpur Delhi 110033, Delhi",Delhi,,,hotel,,688,INR,1688,5.0
+OIHUWEPD,Collection O 23641 Hotel Cozy Vibes Stay,"Near Inderlok Metro Station, Anandnagar, Delhi",Delhi,,,hotel,,627,INR,5595,5.0
+OIHDQOUL,Flagship 81175 Hotel Moon Stay,"New Delhi, Delhi",Delhi,,,hotel,,909,INR,1558,5.0
+OISSAIDI,Flagship Crown Town Guest House,"near by Mandoli Jail Back Side, Delhi",Delhi,,,hotel,,1614,INR,990,5.0
+OIRTYAOH,811874 Hotel Maharaja,"Address- Shop No : 30-32-34 Old Market Main Bus Stand Timarpur Delhi 110054.  Opposite DTC Bus Stand, Delhi",Delhi,,,hotel,,679,INR,94,1.4
+OIVHUODW,Flagship 812028 Brownie,"BS Colony Vishwas Nagar Delhi 110032, Delhi",Delhi,,,hotel,,984,INR,5054,5.0
+OICWYVQJ,SPOT ON 812286 Shivam Guest House,"3 Katra baryan laal Kuan farash khana Chandni chowk, Delhi",Delhi,,,hotel,,1587,INR,1555,5.0
+OICSCMTI,Flagship Mannat Residency,"Near David School, Delhi",Delhi,,,hotel,,1912,INR,3064,5.0
+OILPXQOX,Flagship 811723 Hotel Sai Ram,"Azadpur, Delhi",Delhi,,,hotel,,1005,INR,690,3.8
+OIAMLBZB,Super OYO Townhouse 143 Hotel Royal Garden,"Near Jameson Inn, Park St, Kolkata",Kolkata,,,hotel,,1106,INR,3237,5.0
+OIYJYVLD,Flagship The Nest Inn,"Near Raj Market, Kolkata",Kolkata,,,hotel,,2032,INR,194,1.8
+OILNDSAC,Flagship Royal Plaza,"Near GST Bhawan, Ruby, Acropolis Mall",Unknown,,,hotel,,890,INR,5158,5.0
+OIHEMVZY,Collection O Hotel Hamza International,"Near College Street, MG Road, Kolkata",Kolkata,,,hotel,,1086,INR,1162,5.0
+OIATMJZH,Super OYO Townhouse 1050 Centre Point Inn,"Beside K C Das Sweet Esplanade Post ice, Kolkata",Kolkata,,,hotel,,791,INR,1684,5.0
+OIMJEIPZ,Townhouse 229 Hotel Mannat International,"Near Bypass Connector, Kolkata",Kolkata,,,hotel,,1345,INR,152,1.6
+OIBXNITZ,Super OYO Collection O Ketan Regency,953 Purbachal Road adapt House Prince Park Kalikapur  in lane between Tata chroma showroom & Yamaha Moters Showroom,Unknown,,,hotel,,576,INR,661,3.6
+OIIBCOZF,Townhouse Oak Hotel Lake View Royal,"East Topsia Road, Kolkata",Kolkata,,,hotel,,1071,INR,1732,5.0
+OIKCWHTU,Flagship R A Homestay,"Nitai Nagar, Kolkata",Kolkata,,,hotel,,990,INR,2324,5.0
+OIPVLDHP,Collection O 74257 Gokul Residency,"Near Emami City, Nagerbazar, Dum Dum, Kolkata",Kolkata,,,hotel,,925,INR,326,2.3
+OIEJWGUV,Super OYO Collection O Hotel Green Leaf,"Kasba, Kolkata",Kolkata,,,hotel,,696,INR,1652,5.0
+OIRAXPXI,Super OYO Townhouse 726 Hotel All In One,DL-34 Karunamoyee Near Anandalok Hospital Bidhannagar Saltlake,Unknown,,,hotel,,1380,INR,1178,5.0
+OISKZGDK,G R Hospitality,"VIP Road Baguihati Kolkata Airport Near Ladies Hostel, Narayantala",Kolkata,,,hotel,,820,INR,1063,5.0
+OIFGNKMS,SPOT ON Silver Green,"Mondal Ganthi Road, Kaikhali, VIP Road Kolkata 700052, West Bengal",Kolkata,,,hotel,,1006,INR,823,4.3
+OINKZHEF,A Retro,"Near Tank N0.3, New Town, Rajarhat, Kolkata",Kolkata,,,hotel,,1753,INR,695,3.8
+OIIIJHAV,Super OYO Townhouse 75779 The Royal Retreat,"Kolkata International Airport, Belghoria Express Way Noapara & Baranagar Metro Station",Kolkata,,,hotel,,1050,INR,725,3.9
+OIVRGXMV,Kuber Residency,"Near Tagore Park, Kasba, Kolkata",Kolkata,,,hotel,,1241,INR,756,4.0
+OICICLSJ,Collection O Aafreen Tower,"Esplanade, Kolkata",Kolkata,,,hotel,,1136,INR,914,4.7
+OITPPQQN,Flagship Hotel Shanavi Chinar Park,"29/2 Sayan Abasan, Nishi Kanan, Beside AR Motors, Chinar Park, Kolkata",Kolkata,,,hotel,,1458,INR,17,1.1
+OIOXFREZ,Flagship Sonar Bangla Guest House,"Near G S T Bhawan, Kolkata",Kolkata,,,hotel,,576,INR,1094,5.0
+OIXEMNLJ,Flagship Royal Palace,"Near Acropolis Mall, Purba Abasan, Kolkata",Kolkata,,,hotel,,1071,INR,189,1.8
+OICXFZSD,Diamond Plaza,"Kasbah Northnull, Kolkata",Kolkata,,,hotel,,955,INR,81,1.3
+OIVVRDDM,Flagship Hotel New Aamaze Inn,"Near Vivanta Hotel, Kolkata",Kolkata,,,hotel,,777,INR,822,4.3
+OIGFHBVE,Flagship Delightful Stay Em Byepass,"Uttar Panchanna Gram, Kolkata",Kolkata,,,hotel,,1023,INR,1807,5.0
+OIWLQCGU,Super OYO Hr Inn,"Bidhannagar, Kolkata",Kolkata,,,hotel,,1256,INR,31,1.1
+OITKOFJK,Super OYO SilverKey Deshapriya Park,"Near EDEN GROUP BUILDING, Manoharpukur, Kolkata",Kolkata,,,hotel,,576,INR,828,4.3
+OIDJIUKG,Fantasy Stay,"Near Sector 1, Bidhan Nagar, Kolkata",Kolkata,,,hotel,,820,INR,733,3.9
+OINDJCCN,Collection O De Sivalika Boutique,"Grand Trunk Road, Belur Math,Kolkata",Kolkata,,,hotel,,1050,INR,556,3.2
+OIJPNWRH,Flagship Majestic Inn,"South Dumdum, Kolkata",Kolkata,,,hotel,,816,INR,54,1.2
+OINEODJS,Collection O Premium Hotel,"1/B/24, AL BLOCK, STREET NO.22,NEW TOWN, RAJARHAT, KOLKATA",Kolkata,,,hotel,,1345,INR,667,3.7
+OIAAGXZX,Flagship Diamond Regency,"Near Acropolis Mall, Kolkata",Kolkata,,,hotel,,688,INR,1318,5.0
+OIQOQGHX,Flagship Hotel Dreamline,"Near Sbi E-cornernullnull, Kolkata",Kolkata,,,hotel,,611,INR,1188,5.0
+OIHTIGYU,Collection O Motisarai,"Park Street, Kolkata",Kolkata,,,hotel,,1164,INR,65,1.3
+OIGNEGFC,Pinnacle Auberge,Chinar Park Kolkata International Airport Beside Spencers Rajarhat Main Road,Kolkata,,,hotel,,1084,INR,649,3.6
+OIIJNPEV,Capital O Fortune Inn,"Kasba, Kolkata",Kolkata,,,hotel,,2185,INR,674,3.7
+OIPWATRQ,Capital O Kabita Guest House,Mukundapur Main Road Seven Maddox Square Multi cuisine Restaurant Kolkata EM Bye Pass Opposite Dr. Devi Shetty Hospital,Kolkata,,,hotel,,2082,INR,68,1.3
+OIYGORVE,Townhouse 567 MB International,"Beniapukur, Kolkata",Kolkata,,,hotel,,746,INR,349,2.4
+OISMQEVX,Flagship Hotel Divira Inn,"New Town, Kolkata",Kolkata,,,hotel,,949,INR,637,3.5
+OIALACDQ,Super OYO Sagorika Inn,Chinarpark Amenia; Arsalan,Unknown,,,hotel,,549,INR,497,3.0
+OIFUKWBV,Capital O Hotel Gardenia,"Near Laxminarayan Temple, Sarat Bose Road, Kolkata",Kolkata,,,hotel,,1654,INR,37,1.1
+OICHJYFQ,Flagship Hotel Rockstar,Kolkata Opposite Bangladesh High Commission) Near A.J.C Bose Flyover,Kolkata,,,hotel,,1229,INR,1165,5.0
+OIWEUEXE,Flagship Vicky Guest House,"Tcs Gitobitan, Kolkata",Kolkata,,,hotel,,1458,INR,117,1.5
+OIGUYGQN,Rooms 91148 Hotel Stay Inn,"Action Area I, Kolkata",Kolkata,,,hotel,,1256,INR,637,3.5
+OIDDQTYH,Super OYO Townhouse 095 Akash Ganga Park Circus,"Beniapukur, Kolkata",Kolkata,,,hotel,,1030,INR,1115,5.0
+OIYASVJG,Super OYO Trisha Guest House,"Behind New Life Nurshing Home, Oppssite Arati cinema, Sahabagan, Kolkata",Kolkata,,,hotel,,1413,INR,35,1.1
+OIUPPEEH,Flagship Santoshi Banquet And Marriage Hall,"Kulia, Kolkata",Kolkata,,,hotel,,1339,INR,489,3.0
+OIUKHSGX,Starlight Guest House,"Shantipally Near Acropolis Mall, Kolkata",Kolkata,,,hotel,,1636,INR,51,1.2
+OIXVFXEF,Super OYO Capital O 700752 Hotel Dak Plaza,"Near Axis Mall, CE Block, Newtown, Kolkata 700156",Kolkata,,,hotel,,993,INR,1299,5.0
+OINGPHTK,Flagship 86727 New Diamond Palace,"Kolkata 700107, Kolkata",Kolkata,,,hotel,,1334,INR,94,1.4
+OIDDNYTF,Collection O Hotel Paradise,"Kolkata West Bengal Kolkata, Kolkata",Kolkata,,,hotel,,816,INR,349,2.4
+OIGGECAL,Hotel City Of Joy,"Salt Lake, Kolkata",Kolkata,,,hotel,,2082,INR,17,1.1
+OIJAWFRF,Red Velvet Classic,Kaikhali Above IndusInd Bank ATM Kolkata International Airport 02 Hotel VIP Road,Kolkata,,,hotel,,1084,INR,394,2.6
+OIUZFJFF,Flagship Monurama Homestay,"Purba Diganta, Kolkata",Kolkata,,,hotel,,2185,INR,32,1.1
+OIFZPEWL,Green Leaf Hospitality,FD 390 SECTOR 3 SALT LAKE CENTRAL PARK MANI SQUARE CITY CENTRE 1,Unknown,,,hotel,,929,INR,28,1.1
+OIYOYLDZ,Flagship Relax View Dumdum Park,"Dum Dum Park, Kolkata",Kolkata,,,hotel,,1213,INR,117,1.5
+OICQOXIF,Super OYO 22566 Red Velvet Inn,"Near Chinar Park, Backside of NPG Hotel, Opposite Charnock Hospital",Unknown,,,hotel,,1156,INR,35,1.1
+OIVUKADM,Capital O Krish Residency,"Near Action Area I, New Town Bus Stand DLF1, Kolkata, West Bengal",Kolkata,,,hotel,,1023,INR,674,3.7
+OIUAMROZ,Collection O Avenue Inn,"288/2 Bangur Avenue Block B, Near Bangur Swimming Pool Jessore Road Diamond Plaza Mall Nagerbazar",Unknown,,,hotel,,1126,INR,189,1.8
+OIBEWXWM,Super OYO Flagship 89087 Brill Rooms Saltlake City Centre,"Saltlake, Kolkata",Kolkata,,,hotel,,1426,INR,235,1.9
+OIOQJFDC,Super OYO Collection O The Coco Inn,"Near 13C Bus Stand, Regent Estate, Kolkata",Kolkata,,,hotel,,929,INR,20,1.1
+OIJBGGKP,Flagship Kalighat,"Near Raja Santosh Road, Alipore, Kolkata",Kolkata,,,hotel,,1257,INR,141,1.6
+OIVCAHYV,Flagship R A Homestay,"Nitai Nagar, Kolkata",Kolkata,,,hotel,,1323,INR,34,1.1
+OILCGMLE,Collection O Hotel Paradise,"Kolkata West Bengal Kolkata, Kolkata",Kolkata,,,hotel,,949,INR,141,1.6
+OIVDKNUF,Flagship 812089 Laxmi Guest House Jadavpur,"46 Raja S.C.Mallick Road  Raja S.C Mallick Road, Kolkata",Kolkata,,,hotel,,878,INR,142,1.6
+OIOLMQEK,Flagship Hotel Dreamline,"Near Sbi E-cornernullnull, Kolkata",Kolkata,,,hotel,,3114,INR,60,1.2
+OIQSYSHU,Padmavati Projects Pvt Ltd,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",Kolkata,,,hotel,,1474,INR,474,2.9
+OIWGEOFL,Collection O 811014 Hotel Wow,"SALT LAKE, Kolkata",Kolkata,,,hotel,,1023,INR,345,2.4
+OIWQJGNY,Flagship Priyangshu Inn,"Madhurdaha, Kolkata",Kolkata,,,hotel,,1188,INR,1299,5.0
+OIYDQJCM,Flagship Relax View Dumdum Park,"Dum Dum Park, Kolkata",Kolkata,,,hotel,,1034,INR,32,1.1
+OIDHDASM,Collection O Avenue Inn,"288/2 Bangur Avenue Block B, Near Bangur Swimming Pool Jessore Road Diamond Plaza Mall Nagerbazar",Unknown,,,hotel,,1339,INR,19,1.1
+OIAZIKAZ,Flagship 812161 Hotel Asha Inn,"BIDHANNAGAR, Kolkata",Kolkata,,,hotel,,1041,INR,397,2.6
+OIUGZHWI,Super OYO Capital O 700752 Hotel Dak Plaza,"Near Axis Mall, CE Block, Newtown, Kolkata 700156",Kolkata,,,hotel,,1463,INR,165,1.7
+OIECSUKS,Pinnacle Auberge,Chinar Park Kolkata International Airport Beside Spencers Rajarhat Main Road,Kolkata,,,hotel,,1314,INR,619,3.5
+OIIJOHVD,Maa Tara Guest House,"Near R.N.Tagore Hospital, Nitainagar, Kolkata",Kolkata,,,hotel,,1680,INR,125,1.5
+OICXCIOC,Flagship Hmb Guest House,"Sector II Salt lake water tank no 8, Kolkata",Kolkata,,,hotel,,1660,INR,7,1.0
+OIFRWJSK,Flagship Hotel Red Rose,"Dum Dum, Kolkata",Kolkata,,,hotel,,1334,INR,141,1.6
+OIKQRVBO,Townhouse 444 Heera Holiday Inn,"51,Elliot Road Park Street Near Assembly Of God Church Adjacent 144668:1076985",Unknown,,,hotel,,1156,INR,141,1.6
+OITDIMOV,Collection O Kyd Guest House,"700001, Kolkata",Kolkata,,,hotel,,1698,INR,34,1.1
+OIVLAMPN,SPOT ON 812338 Om Palace Guest House,"Near Jalsaghar Netaji Nagar, Kolkata",Kolkata,,,hotel,,2082,INR,35,1.1
+OIUITKNH,Ma Kali Guest House,"Near FD Block, Bidhannagar, Kolkata",Kolkata,,,hotel,,1329,INR,428,2.7
+OIUFCXSN,Flagship 90803 Sweet Grove,"Sector V, Kolkata",Kolkata,,,hotel,,626,INR,394,2.6
+OIJUNBHD,The Olive,"Near Bus Stand, Anandaloke Hospital, Cl Block, Kolkata",Kolkata,,,hotel,,1308,INR,621,3.5
+OIGUOMYM,Hotel Maruti Lodging,"Above Reliance Trends, Raghunathpur, Kolkata",Kolkata,,,hotel,,599,INR,158,1.6
+OIRTMJNE,Flagship Kalighat,"Near Raja Santosh Road, Alipore, Kolkata",Kolkata,,,hotel,,599,INR,42,1.2
+OINKNSXQ,Collection O 811014 Hotel Wow,"SALT LAKE, Kolkata",Kolkata,,,hotel,,949,INR,61,1.2
+OIGQAVFX,Flagship 805260 Saltlake Palace,"Salt Lakenull, Kolkata",Kolkata,,,hotel,,1252,INR,8,1.0
+OIEOXFSF,Flagship Amaris Stay Hub,"171D/1F/2, 49 Picnic Garden Road, VIP Bazar,  EM Bypass, Near Science City",Unknown,,,hotel,,699,INR,80,1.3
+OITHYZAN,Flagship Nayak Palace Inn,"Ballygunge, Kolkata",Kolkata,,,hotel,,1099,INR,343,2.4
+OIASZXVM,Hotel Nest,"Near Bata More, Royd Street, Kolkata",Kolkata,,,hotel,,1437,INR,5,1.0
+OIPRCYTJ,Flagship 76211 Honey Regency,"E C Block, Kolkata",Kolkata,,,hotel,,850,INR,334,2.3
+OIAUIGMF,Collection O 81128 Enigma,"Ballygunge, Kolkata",Kolkata,,,hotel,,1087,INR,55,1.2
+OIYZDXCK,Flagship 812161 Hotel Asha Inn,"BIDHANNAGAR, Kolkata",Kolkata,,,hotel,,729,INR,195,1.8
+OIGXTZQT,Collection O Kyd Guest House,"700001, Kolkata",Kolkata,,,hotel,,925,INR,209,1.8
+OIEMYTBU,Flagship Hotel Red Rose,"Dum Dum, Kolkata",Kolkata,,,hotel,,815,INR,74,1.3
+OIGOCXLU,Townhouse 444 Heera Holiday Inn,"51,Elliot Road Park Street Near Assembly Of God Church Adjacent 144668:1076985",Unknown,,,hotel,,811,INR,245,2.0
+OIQXPPIH,Flagship Swastik Inn,"Poddar Nagar, Kolkata",Kolkata,,,hotel,,1441,INR,260,2.0
+OIMUULOI,Flagship 76629 Bimla Regency,"Police Station, Dum Dum, Kolkata",Kolkata,,,hotel,,929,INR,604,3.4
+OIQXLNAO,Flagship 812443 MRS Inn,"Sector III, Kolkata",Kolkata,,,hotel,,1199,INR,3,1.0
+OIVJYCID,Padmavati Projects Pvt Ltd,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",Kolkata,,,hotel,,2649,INR,6,1.0
+OIBMIKXQ,Pallyshree Guest House,"Jyangra Sani Mandir, Baguiati Jora Mandir Chinar Park VIP Road Raghunathpur, Kolkata International Airport",Kolkata,,,hotel,,3149,INR,7,1.0
+OIERRWQZ,Townhouse 92944 Hotel Pan Asia International,"Jatin Das Road, Kolkata",Kolkata,,,hotel,,1799,INR,144,1.6
+OIVBQCSE,Flagship Hotel The Buddha Fooding And Lodging,"Near Samabayika Behala, Kolkata",Kolkata,,,hotel,,1999,INR,7398,5.0
+OIUNOWSB,Super OYO Townhouse Hotel Vrindavan,"AA-027 Salt Lake Sector 1 1st Cross Road PNB Island Bus Stop Bidhannagar Ultadanga Kolkata 700064, West Bengal",Kolkata,,,hotel,,3899,INR,7,1.0
+OINDGWRV,Collection O Rest In,"Near Newtown Bus stand , Kolkata",Kolkata,,,hotel,,1799,INR,127,1.5
+OIEQTKHR,Flagship 78299 White Stone Hospitality,Aminia Restaurant Back Side Chinar Park Crossing Great Eastern Kolkata Airport,Kolkata,,,hotel,,6099,INR,161,1.6
+OIYLYJWZ,Collection O 812085 Hotel 7dayz Inn,"West Bengal, Kolkata",Kolkata,,,hotel,,1799,INR,69,1.3
+OIWUHUPA,Collection O 812607 Hotel G.N Palace,"Bara Bazar, Kolkata",Kolkata,,,hotel,,1664,INR,107,1.4
+OIADBGEH,Flagship Divya Jyoti Inn,"AI 87 Street No 23 Action Area 1 Newtown, Rajarhat",Unknown,,,hotel,,4849,INR,77,1.3
+OIUDKDQR,Flagship 70403 Chinar Inn,"Behind Shree Shree Bholanath Kali Temple, Kolkata",Kolkata,,,hotel,,1699,INR,130,1.5
+OIBZSKHE,Hotel Padmavati,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",Kolkata,,,hotel,,1664,INR,24,1.1
+OICGSOVS,Flagship 81584 Hotel Swagatam,"Rajarhat, Kolkata",Kolkata,,,hotel,,3699,INR,129,1.5
+OITSLJYA,Collection O 64870 Hotel Holiday Science City,SANJHA CHULHA RESTAURANT SCIENCE CITY EM BYE PASS,Unknown,,,hotel,,3149,INR,1,1.0
+OIJLDNLA,Comfort Stays,"Rajarhat, Kolkata",Kolkata,,,hotel,,4299,INR,35,1.1
+OIOOBGHL,Flagship Heritage Inn,"Salt Lake, Kolkata",Kolkata,,,hotel,,3799,INR,22,1.1
+OIZARKKN,Flagship 78267 City Inn,Avisar Spencer Kalikapur,Unknown,,,hotel,,4649,INR,16,1.1
+OITMURFE,Collection O 76651 Dovers Inn,"Opp Gariahat Police Station, Kolkata",Kolkata,,,hotel,,2499,INR,23,1.1
+OIVHPJEI,Capital O Hotel Heritage,"VIP Rd, Beside Spandhan Hospital, Raghunathpur, Tegharia Netaji International Airport, Rajarhat, Kolkata, West Bengal  700059",Kolkata,,,hotel,,3749,INR,21,1.1
+OIZBVQJX,Collection O Tulsi Palace,", Kolkata",Kolkata,,,hotel,,3249,INR,53,1.2
+OINHTHUS,Flagship 812166 Moon Regency,"Sector 2, Kolkata",Kolkata,,,hotel,,4749,INR,13,1.1
+OIRGCCWZ,Pratiksha Guest House,"Bangur Avenue Block B, Kolkata Kolkata West Bengal India 700055",Kolkata,,,hotel,,3549,INR,23,1.1
+OIGIXIVT,Townhouse 1210 Brill Rooms Inn,"Action Area 1A, Kolkata",Kolkata,,,hotel,,2499,INR,90,1.4
+OIVGKFDB,Collection o 82136 Elite Stay,AL283 Al block salt lake sector 2 KOLKATA.,Kolkata,,,hotel,,3449,INR,9,1.0
+OIBGKGJK,Flagship Trivedi Inn,"Kasba, Kolkata",Kolkata,,,hotel,,4799,INR,1,1.0
+OITHLMCP,Super OYO Flagship Mourigram,"Howrah, Kolkata",Kolkata,,,hotel,,2499,INR,417,2.7
+OIUMYLUL,Flagship Sammy Hospitality,"Salt Lake, Kolkata",Kolkata,,,hotel,,3499,INR,1248,5.0
+OIMQCMGC,Flagship Ankita Guest House,"Near Gst Bhawan, Kolkata",Kolkata,,,hotel,,4299,INR,137,1.5
+OIQLCMHQ,Karunamoyee Guest House,"Karunamoyee Bus Terminal, Bidhannagar, Kolkata",Kolkata,,,hotel,,2899,INR,200,1.8
+OIVBZXTL,Smriti Villa Residency,"Sector IIInull, Kolkata",Kolkata,,,hotel,,2149,INR,185,1.7
+OIWDZYQU,Sima Inn Guest House,"Near Near Salt Lake, Sector 2, Kolkata",Kolkata,,,hotel,,2199,INR,249,2.0
+OIGSHKJB,Flagship Chinar Heavens,"AS/267, KAIKHALI, CHINAR PARK, P.O. - AIRPORT, KOLKATA - 700052",Kolkata,,,hotel,,1849,INR,63,1.3
+OIBALBKL,Flagship Scholars Motel  guest House),"Esplanade, Kolkata",Kolkata,,,hotel,,2549,INR,1273,5.0
+OITQONSI,Flagship H B Guest House,"Near Ruby Hospital, Kolkata",Kolkata,,,hotel,,2449,INR,2372,5.0
+OIDPZNIK,Smriti Villa,"GD-138, GD MARKET, Near NIH, Salt Lake",Unknown,,,hotel,,2049,INR,4151,5.0
+OIRQPKAQ,SPOT ON Swapna Guest House,"1 No Hatgachia Dhapa Road Kolkata Behind Itc Sonar Bangla Hotel And Beside Milan Mela Prangan, Kolkata",Kolkata,,,hotel,,2049,INR,1101,5.0
+OIMEFLOA,Flagship 7 Div Guest House,"CK 109 Near Saltlake Sector 2, 9 No Water Tank  Karunamayee Bus Stop",Unknown,,,hotel,,2499,INR,1995,5.0
+OIGRINWI,Flagship New Silver Inn,"Near Tagore Park, Tijala, Kolkata",Kolkata,,,hotel,,1699,INR,1762,5.0
+OIJQEZYS,Flagship Tinker Bell,"Mukundapur, Kolkata",Kolkata,,,hotel,,3099,INR,1434,5.0
+OIPDBCUI,Flagship Hotel Suleman Palace,"Bux Lane, Kolkata",Kolkata,,,hotel,,1999,INR,431,2.7
+OIHCEXWD,Flagship Rakhakali Guest House Fooding And Loding,"near Shalimar station ticket counter , Kolkata",Kolkata,,,hotel,,2249,INR,165,1.7
+OIOCTMQN,Flagship Kajali Guest House,"Near Bosepukur, Kasba, Kolkata",Kolkata,,,hotel,,2499,INR,1004,5.0
+OIXGPXFW,Premium 529 Jasola Vihar,"Pocket-2, Jasola",Unknown,,,hotel,,2649,INR,888,4.6
+OIXDQJKP,Flagship 485 GK2 Savitri Cinema,"E Block,GK2",Unknown,,,hotel,,1899,INR,103,1.4
+OIZHEFJN,Flagship 573 Paharganj NDLS,"Arakashan Road, Paharganj",Unknown,,,hotel,,1199,INR,129,1.5
+OISKFXZT,Flagship 513 Delhi Airport,"A Block,Mahipalpur Extension",Delhi,,,hotel,,3549,INR,798,4.2
+OIWPCKZF,Premium 055 New Friends Colony Ring Road,CV Raman Marg,Unknown,,,hotel,,2749,INR,2919,5.0
+OIFLMTQW,Rooms 658 Nehru Place 1,"E Block, East Of Kailash",Unknown,,,hotel,,2549,INR,943,4.8
+OINLNYXA,Premium 210 Lodhi Road,Sunder Nagar,Unknown,,,hotel,,1599,INR,562,3.2
+OIXNFSRV,Rooms 632 Kalkaji Mandir,Kalkaji,Unknown,,,hotel,,1249,INR,709,3.8
+OIBTBPKJ,Rooms 696 NH8 Mahipalpur,"Road 1, Mahipalpur",Unknown,,,hotel,,2399,INR,1086,5.0
+OITDRLZV,Premium 241 Patel Nagar Metro Station,East Patel Nagar,Unknown,,,hotel,,3249,INR,1320,5.0
+OIDQKVAE,Rooms 010 Karol Bagh 1078,"Karol Bagh, New Delhi",Delhi,,,hotel,,3599,INR,2881,5.0
+OIXAISPD,Rooms 689 Indira Gandhi International Airport,"Road No 1, Mahipalpur",Unknown,,,hotel,,2749,INR,140,1.6
+OIQVHMRX,Homes 459 New Friends Colony 2,"Second Floor (With Elevator), New Friends Colony",Unknown,,,hotel,,2599,INR,7,1.0
+OIWJQGBZ,Premium 033 New Friends Colony,CV Raman Marg,Unknown,,,hotel,,3599,INR,141,1.6
+OIKFHEGK,Premium 160 Saket Metro Station,Saket,Unknown,,,hotel,,2049,INR,141,1.6
+OIWKHFAJ,Rooms 030 IGI Airport Aerocity,"National Highway No. 8, Mahipalpur",Unknown,,,hotel,,1949,INR,34,1.1
+OIQOYHEK,Rooms 142 Connaught Place 1,Connaught Circus,Unknown,,,hotel,,1149,INR,35,1.1
+OIJAWYYY,Rooms 257 Rajendra Place PUSA Circle,East Patel Nagar,Unknown,,,hotel,,1749,INR,428,2.7
+OICFLGAN,Rooms 171 IGI Airport NH8,"National Highway 8, Near IGI Domestic Airport, Mahipalpur",Unknown,,,hotel,,1849,INR,394,2.6
+OIHHJLPS,Rooms 080 Executive IGI Airport,"Mahipalpur Extn, Near Airport, National Highway -8",Unknown,,,hotel,,2699,INR,621,3.5
+OITUXOBD,Premium 182 Siri Fort Sports Complex,Anand Lok,Unknown,,,hotel,,3199,INR,158,1.6
+OIMJKGVI,Rooms 118 Vasant Vihar,Vasant vihar,Unknown,,,hotel,,2699,INR,42,1.2
+OIYOKCJY,Rooms 457 Azadpur Mandi Extension,Adarsh Nagar,Unknown,,,hotel,,3799,INR,61,1.2
+OITCEBUH,Rooms 183 Opp IGI Airport Main Road,"N.H. 8, Near IGI Airport Road No. 1, Mahipalpur Extension , Mahipalpur",Unknown,,,hotel,,3299,INR,8,1.0
+OITURBKS,Premium 207 Greater Kailash 1,Greater Kailash 1,Unknown,,,hotel,,2499,INR,80,1.3
+OIKYORSS,Homes 380 GTB Nagar,Kingsaway,Unknown,,,hotel,,2349,INR,343,2.4
+OIADZQEZ,Rooms 680 Jasola Pocket 1,Jasola Vihar,Unknown,,,hotel,,2299,INR,5,1.0
+OIUHEUQH,Premium 292 Lajpat Nagar Main Road,Lajpat Nagar 4,Unknown,,,hotel,,1849,INR,334,2.3
+OISOYVTX,Rooms 144 CR Park,Outer Ring Road,Unknown,,,hotel,,1799,INR,55,1.2
+OIPYOZDF,Rooms 098 South Delhi,"Opposite Karnataka Bank, Kalkaji",Delhi,,,hotel,,1349,INR,195,1.8
+OIAMKDNW,Apartments 273 Dwarka Sector 12,Dwarka,Unknown,,,hotel,,1449,INR,209,1.8
+OIHBCFFE,Rooms 616 NDLS Gate Number 2,Desh Bandhu Gupta Road,Unknown,,,hotel,,1499,INR,74,1.3
+OINXTHIH,Rooms 195 Patel Nagar Metro Station,East Patel Nagar,Unknown,,,hotel,,4649,INR,245,2.0
+OIWMTRMY,Rooms 128 Paschim Vihar District Park,Bhera Enclave,Unknown,,,hotel,,1649,INR,260,2.0
+OIPWRKOP,Rooms 613 Kirti Nagar-B&B,Kirti Nagar,Unknown,,,hotel,,1649,INR,604,3.4
+OIQCWZLM,Rooms 006 New Friends Colony,Near Bank of Baroda,Unknown,,,hotel,,3999,INR,3,1.0
+OIJBYMKM,Rooms 690 Okhla,"Jamia Nagar, Okhla",Unknown,,,hotel,,1699,INR,6,1.0
+OISVNJBP,Rooms 509,"60 Feet Road, Pul Pehlad Pur",Unknown,,,hotel,,1899,INR,7,1.0
+OIZBXDYE,Premium 177 Defence Colony,Defence Colony,Unknown,,,hotel,,1399,INR,144,1.6
+OIDSSXHI,Rooms 329 8575 Arakashan Road,Arakashan Road,Unknown,,,hotel,,4199,INR,7398,5.0
+OIXVQZZR,Rooms 491 Mahipalpur NH8,"National Highway, NH8",Unknown,,,hotel,,2149,INR,7,1.0
+OIRUIGOR,Rooms 194 Next To IGI Airport Corporate Special,"Kapashera Extension, Bijwasan Road",Unknown,,,hotel,,3649,INR,127,1.5
+OIFTDTZY,Rooms 215 Gangaram Hospital,Old Rajendra Nagar,Unknown,,,hotel,,1249,INR,161,1.6
+OIFQOOIB,Rooms 212 Hauz Khas,Panchsheel Park South,Unknown,,,hotel,,1449,INR,69,1.3
+OIXNMKOC,Rooms 588 DB Gupta Road,Dariba Pan,Unknown,,,hotel,,2249,INR,107,1.4
+OIDPCEDA,Rooms 185 GK 1,Greater Kailash Part 1,Unknown,,,hotel,,3449,INR,77,1.3
+OITHMPMI,Rooms 653,Kailash Colony,Unknown,,,hotel,,2899,INR,130,1.5
+OISWFXXK,Rooms 133 East of Kailash Extension,Opp Sapna Cinema,Unknown,,,hotel,,1599,INR,24,1.1
+OIZTGTZG,Rooms 486 IGI Airport,"Near Prem Motor Showroom, Adjoining Vasantkunj Road",Unknown,,,hotel,,2449,INR,129,1.5
+OIEQZPLT,Rooms 602 Chandi Wali Gali Paharganj,Near New Delhi Railway Station,Delhi,,,hotel,,1249,INR,1,1.0
+OIFKFKUA,Rooms 528 8A/50 Channa Market,"Channa Market, Karol Bagh",Unknown,,,hotel,,2099,INR,35,1.1
+OISFDNHR,Premium 052 Jasola Apollo,Kalindi Kunj Road,Unknown,,,hotel,,1949,INR,22,1.1
+OILUTIHE,Rooms 270 Nizamuddin Railway Station,Jangpura,Unknown,,,hotel,,1499,INR,16,1.1
+OIUUPIHE,Rooms 089 Kalkaji,Chittaranjan Park,Unknown,,,hotel,,2299,INR,23,1.1
+OICFNFXM,Rooms 484 IGI Airport Hotel,NH8,Unknown,,,hotel,,1299,INR,104,1.4
+OIAPASET,Rooms 126 East of Kailash,Near Nehru Place,Unknown,,,hotel,,1599,INR,410,2.6
+OIQABHWZ,Rooms 272 Delhi English School Sector 21 Dwarka,Dwarka Sector 23,Delhi,,,hotel,,1699,INR,879,4.5
+OIPOHHAV,Rooms 567 Paharganj,Near R.K. Ashram Metro Station,Unknown,,,hotel,,1449,INR,75,1.3
+OIGYALOJ,Rooms 599 Rajguru Road Paharganj 2,"Rajguru Road, Chuna Mandi",Unknown,,,hotel,,1449,INR,686,3.7
+OIRDSVKA,Rooms 300 IGI Airport 3,"Behind Prem Maruti Showroom, Mahipalpur",Unknown,,,hotel,,1349,INR,588,3.4
+OIXNSJLS,Rooms 641 Sector 7 Palam Extension,"Sector 7, Near Shree Makhan Sweet, Ramphal Chowk",Unknown,,,hotel,,1599,INR,1875,5.0
+OIXVHBSS,Premium 529 Jasola Vihar,"Pocket-2, Jasola",Unknown,,,hotel,,1849,INR,995,5.0
+OIKJGRXL,Premium 143 Rajouri Garden Janta Market,Rajouri Garden,Unknown,,,hotel,,1599,INR,1144,5.0
+OIPEYBWF,Rooms 565 Airport Travellers Delight,"Street No.7, Near IGI Airport, Mahipalpur",Unknown,,,hotel,,5049,INR,2051,5.0
+OIHMQWNB,Premium 220 East Of Kailash Extension,East of Kailash,Unknown,,,hotel,,3899,INR,644,3.6
+OIFWMFMW,Rooms 666 Nehru Place,Nehru Enclave,Unknown,,,hotel,,3699,INR,34,1.1
+OIKPZFPN,Rooms 350 Delhi Gate,Darya Ganj,Delhi,,,hotel,,3449,INR,664,3.7
+OIHVWOLH,Premium 106 Paharganj,Paharganj,Unknown,,,hotel,,1799,INR,119,1.5
+OIZOSZOQ,Rooms 044 Patel Nagar Delhi,East Patel Nagar,Delhi,,,hotel,,6099,INR,477,2.9
+OISRNTTX,Rooms 671 Dabri Palam Road,Main Mahiveer Enclave in front of Sulabh International Dabri Palam Road,Unknown,,,hotel,,4999,INR,589,3.4
+OIBVWRMC,Rooms 553 Paharganj Flyover 1,"D.B. Gupta Road, Paharganj",Unknown,,,hotel,,3849,INR,470,2.9
+OINMLSVZ,Rooms 111 Paharganj 54,Paharganj,Unknown,,,hotel,,2349,INR,465,2.9
+OIHRLVCC,Rooms 105 Paharganj DB Gupta Road 2,Paharganj,Unknown,,,hotel,,3349,INR,711,3.8
+OICCOLEX,Rooms 361 Paharganj,Pahar Ganj,Unknown,,,hotel,,5799,INR,16,1.1
+OIWILTRG,Premium 532 GK1 M Block Market 1,Greater Kailash 1,Unknown,,,hotel,,3299,INR,2617,5.0
+OIADGGQL,Rooms 027 Karol Bagh 8/41,Karol Bagh,Unknown,,,hotel,,2049,INR,3524,5.0
+OIZOLELA,Rooms 358,Jasola,Unknown,,,hotel,,2049,INR,253,2.0
+OIQGSRYU,Premium 236 Malviya Nagar Metro,Malviya Nagar,Unknown,,,hotel,,3349,INR,429,2.7
+OIHPLSYM,Homes 678 Jangpura Birbal Road,Jangpura Extension,Unknown,,,hotel,,3349,INR,1457,5.0
+OIKHKOAJ,Apartments 561 Ramphal Chowk,"Palam Extension, Sector 7, Near Gold's Gym",Unknown,,,hotel,,3449,INR,1144,5.0
+OINCBQSF,Rooms 038 Jamia River View,Jamia Nagar,Unknown,,,hotel,,3249,INR,74,1.3
+OIEPCXIM,Premium 483 Lajpat Nagar Ring Road 2,Ring Road,Unknown,,,hotel,,3299,INR,2664,5.0
+OIVWGVGE,Homes 382 Pitampura Metro Station,Road no 44,Unknown,,,hotel,,3149,INR,207,1.8
+OIRWARMN,Premium 123 Hauz Khas,Safdarjung Enclave,Unknown,,,hotel,,2999,INR,562,3.2
+OIZWVRTC,Rooms 115 Main Bazar Paharganj,Near Imperial Cinema,Unknown,,,hotel,,2749,INR,709,3.8
+OIHZMHRY,Rooms 296 Railway Station Paharganj 2,Paharganj,Unknown,,,hotel,,2399,INR,1086,5.0
+OIUCSVLL,Homes 375 South Extension 1 H Block,South Extension - 1,Unknown,,,hotel,,2749,INR,1320,5.0
+OILXAJJP,Rooms 297 PVR Saket,Saket,Unknown,,,hotel,,1699,INR,2881,5.0
+OIKYDXYH,Rooms 065 Janakpuri,"Pankha Road,Dabri Mor",Unknown,,,hotel,,6849,INR,140,1.6
+OIAVQPAT,Rooms 136 Karol Bagh 5/25,Karolbagh,Unknown,,,hotel,,1999,INR,7,1.0
+OIIRQQTY,Rooms 396 Nirman Vihar Metro,Near Nirman Vihar Metro Station,Unknown,,,hotel,,1549,INR,141,1.6
+OIUSZKOH,Rooms 268 Gali Hari Mandir Paharganj,Paharganj,Unknown,,,hotel,,3549,INR,141,1.6
+OIRHRYQM,Rooms 277,Karol Bagh,Unknown,,,hotel,,1099,INR,34,1.1
+OIEESUMU,Premium 672 Paharganj Police Station,"Street No.1, Multani Dhanda, Paharganj",Unknown,,,hotel,,3999,INR,35,1.1
+OIDUEYPQ,Rooms 043 Nehru Place Extension,Jasola,Unknown,,,hotel,,3299,INR,428,2.7
+OIJRAEYV,Rooms 683,Kapashera,Delhi,,,hotel,,3749,INR,394,2.6
+OIQFNYBX,Rooms 596 Main Bazaar Paharganj Gali No 1,"Main Bazar, 6 Tooti Chowk",Unknown,,,hotel,,2549,INR,621,3.5
+OIUOESIM,Rooms 609 Paharganj,"Ram Nagar, Street No.1",Unknown,,,hotel,,3849,INR,158,1.6
+OIGGROCC,Rooms 266 7A/36 Channa Market Karol Bagh,Karol Bagh,Unknown,,,hotel,,3249,INR,42,1.2
+OILIIPQN,Rooms 173 Paharganj Qutub Road,Ram Nagar,Unknown,,,hotel,,3749,INR,61,1.2
+OISSHPHU,Rooms 173 Paharganj Qutub Road,Ram Nagar,Unknown,,,hotel,,5099,INR,8,1.0
+OITZYLCN,Rooms 578 Karol Bagh 16/7 Arya Samaj Road,"Arya Samaj Road, Opposite Satbhrawan School",Unknown,,,hotel,,3499,INR,80,1.3
+OIEUTPDW,Rooms 230,Paharganj,Unknown,,,hotel,,2949,INR,343,2.4
+OIFXZBEZ,Rooms 626 DB Gupta NDLS,"Near Gate No 1, Opposite Sheila Cinema",Unknown,,,hotel,,3949,INR,5,1.0
+OINHLJBZ,Rooms 451 Gali No 3 Ram Nagar Paharganj,"Saran Building, Gali No. 3",Unknown,,,hotel,,4749,INR,334,2.3
+OIBNLBOO,Flagship 497 Green Park,"B Block, Safdarjung Enclave",Unknown,,,hotel,,2299,INR,55,1.2
+OISHUPDQ,Flagship 500 New Friends Colony,"Plot no. A-44, A Block, New Friends Colony, Delhi",Delhi,,,hotel,,3399,INR,195,1.8
+OIFVQKDP,Flagship 494 East of Kailash,"Plot no. E-301, E Block, East of Kailash, Delhi",Delhi,,,hotel,,3349,INR,209,1.8
+OILNMKCS,Flagship 512 Safdarjung Enclave,"B Block, Safdurjung Enclave",Unknown,,,hotel,,3499,INR,74,1.3
+OISAJWTC,Flagship 573 Paharganj NDLS,"Arakashan Road, Paharganj",Unknown,,,hotel,,1899,INR,245,2.0
+OIDOLFZF,Premium 526 Wazirpur Industrial Area,"Phase 2, Ashok Vihar, New Delhi",Delhi,,,hotel,,3399,INR,260,2.0
+OIJYPJMM,Rooms 610 Green Park Extension,Hauz Khas Village,Unknown,,,hotel,,4499,INR,604,3.4
+OIOGRLMP,Rooms 606 New Friends Colony 1,New Friends Colony,Unknown,,,hotel,,3199,INR,3,1.0
+OIZEMSRX,Rooms 699 North Campus,"Phase 2, Ashok Vihar",Unknown,,,hotel,,3399,INR,6,1.0
+OIRMVUZM,Premium 538 Hauz Khas Metro,"S Block, Panchsheel Park",Unknown,,,hotel,,4499,INR,7,1.0
+OIFJQRKM,Premium 336 Resort International Airport Delhi,Kapashera,Delhi,,,hotel,,4049,INR,144,1.6
+OICKKESZ,Rooms 592 Deer Park,SFE,Unknown,,,hotel,,1349,INR,7398,5.0
+OIJUCFFU,Rooms 698 Paharganj NDLS,"Arakashan Road,Pahargankj",Unknown,,,hotel,,2649,INR,7,1.0
+OICHKEGO,Rooms 697 Karol Bagh,"Desh Bandhu Gupta Road, Beadonpura, Karol Bagh",Unknown,,,hotel,,2399,INR,127,1.5
+OIGVQQZN,Flagship 551 Karol Bagh,"Next to Baptist Church,D.B Gupta Road, Near Police Station, Karol Bagh",Unknown,,,hotel,,2599,INR,161,1.6
+OILDAUXP,Flagship 551 Karol Bagh,"Next to Baptist Church,D.B Gupta Road, Near Police Station, Karol Bagh",Unknown,,,hotel,,2449,INR,69,1.3
+OIIRYHEB,Rooms 676 Safdarjung Enclave 2,"B Block, Safdurjung Enclave",Unknown,,,hotel,,4199,INR,107,1.4
+OIYCMGPO,Rooms 591 Hauz Khas Village,SDA,Unknown,,,hotel,,2249,INR,77,1.3
+OITVHVDZ,Rooms 555 Pitampura,"Rajdhani Enclave,Pitampura",Unknown,,,hotel,,3099,INR,130,1.5
+OIKOLWDT,Rooms 545 Rohini Pitampura,"Saraswati Vihar, Pitampura",Unknown,,,hotel,,3399,INR,24,1.1
+OIZOFCCC,Rooms 547 Paschim Vihar 2,"Paschim Enclave, Nh-10",Unknown,,,hotel,,5649,INR,129,1.5
+OIGBDOCG,Rooms 354 GK2 M Block Market,"E Block,Greater Kailash II",Unknown,,,hotel,,3849,INR,1,1.0
+OIAIUXEN,Rooms 498 South Ex Market,"C Block, South Extension 1",Unknown,,,hotel,,2099,INR,35,1.1
+OIRTHASD,Premium 608 GK2 M Block Market,"Ground Floor, Greater Kailash II, Road No. 10, Near M Block Market",Unknown,,,hotel,,3599,INR,22,1.1
+OIVTOXCJ,Rooms 010 Karol Bagh 1078,"Karol Bagh, New Delhi",Delhi,,,hotel,,3399,INR,16,1.1
+OIQRCNXZ,Premium 208 GK 1 M Block Market,Greater Kailash,Unknown,,,hotel,,2549,INR,23,1.1
+OIRDMHMR,Rooms 091 WEA Karol Bagh,Karol Bagh,Unknown,,,hotel,,3049,INR,104,1.4
+OIBDHRRQ,Rooms 124 Kirti Nagar,Kirti Nagar,Unknown,,,hotel,,3599,INR,588,3.4
+OIDJIXAO,Premium 404 International Airport Terminal 3 Extension,"A Block, Mahipalpur Extension, NH8, New",Unknown,,,hotel,,2199,INR,1875,5.0
+OIJYHWUA,Rooms 039,Paharganj,Unknown,,,hotel,,3049,INR,995,5.0
+OIOTWVLR,Homes 330 New Friends Colony,Friends Colony East,Unknown,,,hotel,,2299,INR,1144,5.0
+OIIQCXPR,Premium 081 Domestic Airport Delhi,"Khasara No.395, Vasant Kunj Road, Mahipalpur",Delhi,,,hotel,,2149,INR,2051,5.0
+OIKTQTXS,Rooms 031,"National Highway No. 8, Mahipalpur",Unknown,,,hotel,,2549,INR,644,3.6
+OIWHPSIX,Rooms 437 North Campus,"Opposite Parmarth Hospital, Above Allahabad Bank",Unknown,,,hotel,,4949,INR,34,1.1
+OIPVLKKE,Rooms 541 Dwarka Sector 13 Metro Station,"Sector 13, Dwarka",Unknown,,,hotel,,2199,INR,664,3.7
+OIXPIXPM,Rooms 079 Delhi International Airport,"Mahipalpur Extn, Near Airport, National Highway -8",Delhi,,,hotel,,3399,INR,119,1.5
+OICHOTCR,Rooms 190 Opp IGI Airport,"NH 8, Near IGI Airport Road No. 1, Mahipalpur Extension",Unknown,,,hotel,,1649,INR,477,2.9
+OIXPQZNE,Rooms 506 GK 1 Market,Greater Kailash 1,Unknown,,,hotel,,1799,INR,589,3.4
+OIGJVNSJ,Rooms 540,Dakshini Pitampura,Unknown,,,hotel,,1649,INR,470,2.9
+OIMYWPGR,Rooms 051 New Friends Colony Market,New Friends Colony,Unknown,,,hotel,,3799,INR,465,2.9
+OICPLMTY,Premium 586,"Outer Ring Road, Meera Bagh",Unknown,,,hotel,,1649,INR,711,3.8
+OIOMTJCW,Premium 311 Ring Road GK1 2,Greater Kailash 1,Unknown,,,hotel,,2299,INR,16,1.1
+OIMXHSGL,Rooms 028 Friends Hospital NFC,Maharani Bagh,Unknown,,,hotel,,2049,INR,2617,5.0
+OIHLUJHV,Rooms 082 Patel Nagar Main Market,Main Market,Unknown,,,hotel,,1699,INR,3524,5.0
+OIATTJKX,Premium 510 International Airport Terminal 3,Opposite Kapashera Police Station Kapashera,Unknown,,,hotel,,1799,INR,253,2.0
+OIYZJIQF,Rooms 566 Saket J Block,"Opposite J Block Market, Saket",Unknown,,,hotel,,5999,INR,429,2.7
+OIOHFVEF,Rooms 157 Delhi Airport 2,"Opposite Indra Gandhi International Airport, Mahipalpur Extension, NH-8",Delhi,,,hotel,,1599,INR,1457,5.0
+OILQJPDK,Rooms 184 Aerodrome,"Mahipalpur, NH-8, Near IGI Airport",Unknown,,,hotel,,2299,INR,1144,5.0
+OILKLMFQ,Premium 069 Patel Nagar,Metro Pillar No. 162,Unknown,,,hotel,,2049,INR,74,1.3
+OIJCCMJA,Rooms 524 International Airport Delhi,"A Block, N.H.8, Mahipalpur New",Delhi,,,hotel,,1599,INR,2664,5.0
+OIALNLBF,Rooms 205 Dwarka Sector 12 Metro Station,Dwarka,Unknown,,,hotel,,3799,INR,207,1.8
+OIEGEGWE,Premium 405 GK1,Greater Kailash -1,Unknown,,,hotel,,2049,INR,1360,5.0
+OIEASSOM,Rooms 535 Chattarpur,Chandan Hola,Unknown,,,hotel,,4199,INR,69,1.3
+OIDTXFOV,Rooms 321,Paharganj,Unknown,,,hotel,,1799,INR,2655,5.0
+OIKWXHRE,Rooms 219 Grace Church NFC,Kirokli,Unknown,,,hotel,,2999,INR,360,2.4
+OIACVSKX,Rooms 170 Shadipur Metro Station,West Patel Nagar,Unknown,,,hotel,,2999,INR,1675,5.0
+OIHIEFDK,Rooms 365 Indra Gandhi Airport Main Road,"Next to Hotel Radisson, Near IGI Airport, Rangpuri",Unknown,,,hotel,,2599,INR,1342,5.0
+OIZSKBNA,Rooms 088 East Patel Nagar,Near Metro Pillar No.161,Unknown,,,hotel,,1299,INR,957,4.8
+OIXQFKMQ,Premium 407 South Delhi Grand Stay,Aruna Asaf Ali Marg,Delhi,,,hotel,,3749,INR,1603,5.0
+OIIKJNFU,Rooms 014 New Friends Colony Crossroad,CV Raman Marg,Unknown,,,hotel,,1399,INR,494,3.0
+OIEJEQHD,Rooms 560 Vasant Vihar 2,Rao Tula Ram Marg,Unknown,,,hotel,,2749,INR,1965,5.0
+OIGXRVBO,Homes 520 GK 1 M Block Market,Greater Kailash 1,Unknown,,,hotel,,1199,INR,1271,5.0
+OIXKHBMC,Elite 557 Panchsheel Enclave,Panchshila Park,Unknown,,,hotel,,1349,INR,2655,5.0
+OIZKAUXV,Rooms 253 New Friends Colony 2,New Friends colony,Unknown,,,hotel,,3349,INR,644,3.6
+OIXQUTSL,Rooms 169,Vasant Kunj,Unknown,,,hotel,,1949,INR,1603,5.0
+OIGSKTCG,Rooms 585,"Sector 10 Dwarka, In front of metro station",Unknown,,,hotel,,1099,INR,207,1.8
+OIIJEXTV,Homes 275 Saket J Block,Saket,Unknown,,,hotel,,3549,INR,1682,5.0
+OIUOTXKG,Premium 534 Dwarka,Dwarka Palam Road,Unknown,,,hotel,,2249,INR,60,1.2
+OIKTUJLJ,Rooms 145 Paschim Vihar,Rohtak Road,Unknown,,,hotel,,1699,INR,1337,5.0
+OICVQOIZ,Rooms 249 Nehru Place Flyover,Greater Kailash 1,Unknown,,,hotel,,2399,INR,1342,5.0
+OIJATNCX,Rooms 280 J Block Vikaspuri Delhi,Vikaspuri,Delhi,,,hotel,,5099,INR,1393,5.0
+OIJNWEOF,Homes 110 Jangpura Ext,Jangpura Extension,Unknown,,,hotel,,1249,INR,494,3.0
+OISQSUQB,Rooms 204 Rajendra Place Metro Station,East Patel Nagar,Unknown,,,hotel,,1599,INR,299,2.2
+OIGZWDBU,Rooms 518 ZION Church Patel Nagar,East Patel nagar,Unknown,,,hotel,,1599,INR,1360,5.0
+OIONVFDW,Rooms 263 PVR Vikas Puri,Vikas Puri,Unknown,,,hotel,,1799,INR,1271,5.0
+OIAJDQFV,Premium 232 Jasola,Jasola,Unknown,,,hotel,,1249,INR,352,2.4
+OIBWCPBV,Apartments 273 Dwarka Sector 12,Dwarka,Unknown,,,hotel,,1949,INR,358,2.4
+OIINMZNM,Premium 187 Hari Nagar,Hari Nagar,Unknown,,,hotel,,2099,INR,17,1.1
+OILPVQOJ,Rooms 057 Dwarka Sector 19,Dwarka,Unknown,,,hotel,,6149,INR,332,2.3
+OIERZLSU,Homes 456 Rani Bagh,Rani Bagh,Unknown,,,hotel,,1349,INR,1061,5.0
+OIUZGIVX,Rooms 480 IGI Airport 4,"Road no 2, Mahipalpur",Unknown,,,hotel,,1449,INR,1013,5.0
+OIPRKZSS,Premium 129 Dwarka Sector 7,Dwarka,Unknown,,,hotel,,3799,INR,1549,5.0
+OIHNIUDM,Homes 438 Janakpuri,Janak Puri,Unknown,,,hotel,,3549,INR,1337,5.0
+OIUQMHVQ,Premium 050 Jasola DAV,Jasola,Unknown,,,hotel,,2099,INR,663,3.7
+OIQEWHEQ,Rooms 203 llahi Bux Marg Karol Bagh,Karol Bagh,Unknown,,,hotel,,4399,INR,1983,5.0
+OIGDOFSK,Rooms 351 Saraswati Marg Karol Bagh,Saraswati Marg,Unknown,,,hotel,,1499,INR,416,2.7
+OIHWTFUZ,Homes 501 Vasant Kunj,Shanti Kunj,Unknown,,,hotel,,1199,INR,299,2.2
+OISUJKCO,Premium 559 Connaught Place Travellers Delight,Connaught Circus,Unknown,,,hotel,,1899,INR,1488,5.0
+OIPWGPUU,Rooms 522 Karol Bagh 17A-13 Gurudwara Road,Karol Bagh,Unknown,,,hotel,,3699,INR,52,1.2
+OITCKCKS,Rooms 216 Ministry of Rural Development Delhi,East Patel Nagar,Delhi,,,hotel,,1449,INR,60,1.2
+OIOSUCZI,Rooms 026 Karol Bagh,Karol Bagh,Unknown,,,hotel,,2199,INR,807,4.2
+OITNUCMC,Rooms 271,Karol Bagh,Unknown,,,hotel,,1349,INR,795,4.2
+OIISZXFV,Premium 165 Rajouri Garden Metro Station,Rajouri Garden,Unknown,,,hotel,,3949,INR,160,1.6
+OITQIHQC,Rooms 313 Channa Market 14A/4 Karol Bagh,Karol Bagh,Unknown,,,hotel,,2049,INR,1653,5.0
+OIKUODOF,Rooms 078 Ring Road GK1,Near Nehru Place,Unknown,,,hotel,,1449,INR,593,3.4
+OIVPTMRS,Rooms 174 New Delhi Railway Station 2,Ram Nagar,Delhi,,,hotel,,2349,INR,352,2.4
+OIQBQXKO,Premium 546 Green Park Metro,Near Green Park Metro,Unknown,,,hotel,,1899,INR,358,2.4
+OIKNKYMW,Rooms 085 Hauz Khas District Park,Safdarjung Enclave,Unknown,,,hotel,,2999,INR,372,2.5
+OIOKMNEP,Rooms 301 Vasant Kunj,Opposite DPS School Gate No. 1,Unknown,,,hotel,,1849,INR,707,3.8
+OILJJSML,Rooms 530 Krishna Gali,"Near New Delhi Railway Station, Paharganj",Delhi,,,hotel,,749,INR,887,4.5
+OIWPXSLA,Premium 137 Dwarka Sector 12,Dwarka,Unknown,,,hotel,,1349,INR,993,5.0
+OIWKESLH,Rooms 314 10174/1 Gurudwara Road Karol Bagh,Karol Bagh,Unknown,,,hotel,,2549,INR,630,3.5
+OIAHIPDD,Rooms 653,Kailash Colony,Unknown,,,hotel,,1649,INR,1061,5.0
+OINGIBRY,Rooms 108,Karol Bagh,Unknown,,,hotel,,1299,INR,822,4.3
+OIDKXHBE,Rooms 580 Karol Bagh 17A/59,"WEA, Karol Bag, Near RBL Bank",Unknown,,,hotel,,1549,INR,353,2.4
+OIEOCQRK,Premium 239,New Rajinder Nagar,Unknown,,,hotel,,1499,INR,202,1.8
+OIPGWVIP,Rooms 574,Near Kirti Nagar Police Station,Unknown,,,hotel,,1099,INR,332,2.3
+OIBWLAYG,Rooms 342,"Main Bazaar, Main Bazar Road, Paharganj",Unknown,,,hotel,,3449,INR,126,1.5
+OIJOZOYF,Premium 141 Anand Vihar 2,Near Karkardooma Metro Station,Unknown,,,hotel,,1399,INR,39,1.2
+OIAPWTFO,Rooms 209 Karol Bagh 13A/22,Karol Bagh,Unknown,,,hotel,,1999,INR,318,2.3
+OITSCJML,Rooms 455,Karol Bagh,Unknown,,,hotel,,3799,INR,432,2.7
+OILAGWPA,Rooms 147 Karol Bagh 14A/7,Karol Bagh,Unknown,,,hotel,,2799,INR,59,1.2
+OIJLKUAT,Premium 582 Pitampura,"Near Kohat Enclave Metro Station, Opposite Metro Pillar No. 332",Unknown,,,hotel,,2649,INR,178,1.7
+OIWXTYQJ,Rooms 343 Main Bazar Paharganj 4350,"Kaseru Walan, Paharganj",Unknown,,,hotel,,2149,INR,854,4.4
+OIDKLBUF,Homes 328 Chhatarpur,"Maidan Garhi Road,Chattarpur",Unknown,,,hotel,,2749,INR,923,4.7
+OIGXUUHK,Rooms 226,Karol Bagh,Unknown,,,hotel,,2649,INR,244,2.0
+OIMMSFYK,Rooms 265 Balaji Mandir Karol Bagh,Karol Bagh,Unknown,,,hotel,,4099,INR,926,4.7
+OISWYBAT,Rooms 255 Karol Bagh Saraswati Marg,Karol Bagh,Unknown,,,hotel,,1849,INR,38,1.2
+OIUFECYN,Rooms 274 Dwarka Sector 7,"Ramphal Chowk, Dwarka",Unknown,,,hotel,,1099,INR,750,4.0
+OIGDHZLF,Rooms 445 Saket Metro,Saiyad ul Ajaib,Unknown,,,hotel,,2999,INR,586,3.3
+OIDUOUML,Premium 140 Connaught Place,Barakhamba,Unknown,,,hotel,,2399,INR,588,3.4
+OIZJTURS,Rooms 332 New Delhi Railway Station Paharganj,"Kaseru Walan, Paharganj",Delhi,,,hotel,,1749,INR,2,1.0
+OIGYEKEV,Homes 508 G Block Saket,Saket,Unknown,,,hotel,,1849,INR,675,3.7
+OIDFNBRF,Premium 334 Naraina,Naraina Vihar,Unknown,,,hotel,,1499,INR,240,2.0
+OIFLKNEW,Premium 234 Paschim Vihar,Paschim Vihar,Unknown,,,hotel,,1949,INR,917,4.7
+OIXLFEIZ,Homes 318 Kalkaji E Block,Kalkaji,Unknown,,,hotel,,1649,INR,1393,5.0
+OIPYGUQD,Premium 564 Nehru Place Ring Road,Nehru Place,Unknown,,,hotel,,1399,INR,225,1.9
+OIKOARAH,Rooms 228,Paharganj,Unknown,,,hotel,,1549,INR,102,1.4
+OIZITTPZ,Apartments 202 Saket Extension,"Near Malkhan Singh Marg, Street no.16",Unknown,,,hotel,,2049,INR,179,1.7
+OIWRBMZU,Rooms 093 Kalkaji Mandir Delhi,Kalkaji,Delhi,,,hotel,,2449,INR,6,1.0
+OISVMBVN,Premium 008 IGI Airport Link Road,"Mahipalpur, NH -8, Near IGI Airport, Delhi Gurgaon Expy, Block RZ, Mahipalpur Village",Delhi,,,hotel,,4449,INR,278,2.1
+OIPCHUJS,Rooms 629 New Rohtak Road Karol Bagh,"Rohtak Road, Karol Bagh",Unknown,,,hotel,,1899,INR,28,1.1
+OIKMFWZL,Rooms 319 IGI Airport,"Kapashera Road, Bijwasan",Unknown,,,hotel,,2349,INR,164,1.7
+OIPJDQSA,Rooms 119 New Delhi Railway Station,Paharganj,Delhi,,,hotel,,1349,INR,1044,5.0
+OIQLIVQZ,Premium 189 GK 1 R Block,Greater Kailash Part - 1,Unknown,,,hotel,,2099,INR,20,1.1
+OIFGDDPZ,Rooms 094 Karol Bagh 53/1,Karol Bagh,Unknown,,,hotel,,1899,INR,568,3.3
+OIGRFDZG,Rooms 097 Gaffar Market Karol Bagh,"Karol Bagh, New Delhi",Delhi,,,hotel,,1299,INR,373,2.5
+OIKMRSIG,Premium 386 Rajguru Road Paharganj,CHUNA MANDI,Unknown,,,hotel,,3199,INR,1086,5.0
+OILNHZND,Rooms 492 Ramphal Chowk Dwarka,Sector-7,Unknown,,,hotel,,1999,INR,1158,5.0
+OIFXIFTD,Rooms 130 Nizamuddin Railway Station 2,Hazrat Nizamuddin West,Unknown,,,hotel,,2599,INR,1013,5.0
+OIMSASTV,Rooms 641 Sector 7 Palam Extension,"Sector 7, Near Shree Makhan Sweet, Ramphal Chowk",Unknown,,,hotel,,1999,INR,771,4.1
+OINWHVIH,Rooms 298 38 Arakashan Road Pahar Ganj,Arakshan Road,Unknown,,,hotel,,2799,INR,769,4.1
+OIZTOBOA,Rooms 604 DB Gupta Main Road 1,"DB Gupta Road, Pahar Ganj Bridge",Unknown,,,hotel,,3299,INR,93,1.4
+OIGIMURP,Rooms 176 Defence Colony A Block,Defence colony,Unknown,,,hotel,,1549,INR,223,1.9
+OIMZLZCM,Rooms 502 Ramphal Chowk Sector 7,"Ramphal Chowk, Sector 7 Dwarka",Unknown,,,hotel,,2399,INR,20,1.1
+OIHKDANS,Rooms 663 Elahi Bux Road Karol Bagh,Karol Bagh,Unknown,,,hotel,,1699,INR,278,2.1
+OIZLAOKZ,Rooms 444,Karol Bagh,Unknown,,,hotel,,2099,INR,75,1.3
+OITJSDGZ,Rooms 605,"1B, Arakashan Road",Unknown,,,hotel,,2049,INR,14,1.1
+OIVFRGBD,Rooms 379 New Delhi Station Gate 1,"Opposite New Delhi Railway Station, Paharganj",Delhi,,,hotel,,1399,INR,27,1.1
+OIPQAMTH,Rooms 217 Lajpat Nagar Market,Lajpat Nagar,Unknown,,,hotel,,2449,INR,132,1.5
+OIEYNXZD,Rooms 323 Mahipalpur,"Road No.-6, Mahipalpur, Road No 6",Unknown,,,hotel,,1349,INR,191,1.8
+OIJAXYFC,Homes 291 Dwarka Sector 19,Dwarka,Unknown,,,hotel,,2049,INR,263,2.1
+OILZYLLC,Premium 531 Green Park 2,Green Park,Unknown,,,hotel,,1299,INR,262,2.0
+OINVVDDP,Rooms 461 Kalkaji F Block,Kalkji Main Road,Unknown,,,hotel,,1999,INR,6,1.0
+OIKJXMQM,Rooms 163 Rohini,Main Road Naharpur Village,Unknown,,,hotel,,2549,INR,9,1.0
+OIURBRQY,Homes 558 Chattarpur,"Next To Primary School, Satbari Chattarpur",Unknown,,,hotel,,2799,INR,62,1.2
+OICPNYNN,Premium 261 Karol Bagh Metro Station 3,Karol Bagh,Unknown,,,hotel,,3599,INR,123,1.5
+OIOHMWIU,Homes 367 Greater Kailash M Block Market 2,New Delhi,Delhi,,,hotel,,1199,INR,1,1.0
+OIJFUVOE,Premium 029 Siri Fort Road,Sadiq Nagar,Unknown,,,hotel,,1799,INR,3577,5.0
+OIUTMPGL,Rooms 152 Karol Bagh Bikanerwala,"Gurudwara Road, Karol Bagh",Unknown,,,hotel,,2299,INR,138,1.6
+OILNYTTX,Rooms 312,Opp. Shiela Cinema,Delhi,,,hotel,,4149,INR,115,1.5
+OIGOCFKA,Homes 460 GK 2 Main Road,Greater Kailash II,Unknown,,,hotel,,1599,INR,270,2.1
+OIKPVLMS,Rooms 138 Vasant Kunj 1,Masoodpur Vasant Kunj,Unknown,,,hotel,,2349,INR,2846,5.0
+OISQOQRN,Rooms 433 Jangpura,"Masjid Road, Jangpura Bhogal",Unknown,,,hotel,,3699,INR,72,1.3
+OIZDMUBF,Premium 086 Karol Bagh Metro,Karol Bagh,Unknown,,,hotel,,1399,INR,22,1.1
+OIHLOFGF,Rooms 674 Karol Bagh Saraswati Marg 2,"Karol Bagh, New Delhi",Delhi,,,hotel,,2499,INR,352,2.4
+OIVFSSPZ,Rooms 348,"Road No 6, Mahipalpur, Mahipalpur, International Airport Zone",Unknown,,,hotel,,1399,INR,1215,5.0
+OIFOBEZZ,Rooms 358,Jasola,Unknown,,,hotel,,3199,INR,3,1.0
+OINMGJQY,Rooms 611 Main Bazaar 1575 Paharganj,"Main Bazar, Paharganj",Unknown,,,hotel,,3549,INR,2,1.0
+OIWXMONX,Rooms 337 Arya Nagar Paharganj,D.B. Gupta Road,Unknown,,,hotel,,1949,INR,2,1.0
+OIOAILBQ,Rooms 075 Fortis Vasant Kunj,Vasant Kunj,Unknown,,,hotel,,2549,INR,1,1.0
+OIGRMAGQ,Premium 240 Paharganj,Pahar Ganj,Unknown,,,hotel,,1049,INR,34,1.1
+OIJZQIDZ,Rooms 045 Connaught Place G Block,Connaught Place,Unknown,,,hotel,,1499,INR,7286,5.0
+OICTMCKN,Rooms 090 CR Park Outer Ring Road,CR Park,Unknown,,,hotel,,3549,INR,324,2.3
+OIAPYWTJ,Homes 310 Shivalik Road Malviya Nagar,Near Aurobindo College,Unknown,,,hotel,,2099,INR,61,1.2
+OIIZSWZJ,Rooms 104 Paharganj Railway Station,Pahar Ganj,Unknown,,,hotel,,2299,INR,864,4.5
+OIFQRYAG,Rooms 677 Kamla Nagar,Kamla Nagar,Unknown,,,hotel,,1999,INR,848,4.4
+OIZIEJVK,Rooms 306 Karol Bagh 7A/39,Channa Market,Unknown,,,hotel,,2999,INR,4273,5.0
+OIRWRLNJ,Rooms 493 Krishna Gali,"Krishna Gali, Ghee Mandi, Near New Delhi Railway Station Paharganj",Delhi,,,hotel,,3649,INR,170,1.7
+OIBCMKIT,Rooms 125 Pitampura I,Pitampura,Unknown,,,hotel,,2599,INR,249,2.0
+OIWFZAMS,Premium 083 Karol Bagh Metro Station,Karol Bagh,Unknown,,,hotel,,1599,INR,735,3.9
+OIUAKGCE,Rooms 316 Kalkaji M Block,"M Block, Kalkaji",Unknown,,,hotel,,1949,INR,427,2.7
+OINVVWPO,Homes 325 AIIMS,Arjun Nagar,Unknown,,,hotel,,2299,INR,180,1.7
+OIUWRCPZ,Rooms 040 AIIMS,Opposite AIIMS Trauma Centre,Unknown,,,hotel,,2249,INR,75,1.3
+OIUSTCUR,Premium 473 International Airport Main Road,"NH8, Mahipalpur",Unknown,,,hotel,,3549,INR,23,1.1
+OIXNGKVI,Rooms 368 Block 11A Channa Market Karol Bagh,"W.E.A, Channa Market, Karol Bagh",Unknown,,,hotel,,2099,INR,49,1.2
+OIRIDCGO,Premium 603 Red Fort,"Opposite Happy School, Daryaganj",Unknown,,,hotel,,2299,INR,342,2.4
+OIQBUOCE,Rooms 340 Hazrat Nizamuddin Railway Station,Jangpura B,Unknown,,,hotel,,1999,INR,168,1.7
+OIDBPSWH,Homes 441 Janakpuri West Metro Station,Opposite Savitri Market,Unknown,,,hotel,,2999,INR,2171,5.0
+OIEURXIP,Premium 068 Karol Bagh,Near By Karol Bagh Police Station / HDFC bank,Unknown,,,hotel,,3649,INR,1289,5.0
+OIBHAGQR,Rooms 406 Railway Station Paharganj 4,Arakashan Road,Unknown,,,hotel,,2599,INR,769,4.1
+OIRGKYHG,Homes 101 GK N Block Market,"Greater Kailash-1, New Delhi",Delhi,,,hotel,,1599,INR,610,3.4
+OIQMTCUL,Rooms 293 Jhandewalan Metro Station 3,Karol Bagh,Unknown,,,hotel,,1949,INR,545,3.2
+OILDIYRR,Premium 019 Dwarka,"Aditya Enclave, Dwarka",Unknown,,,hotel,,2299,INR,1807,5.0
+OIIMRRVN,Rooms 542 Bhogal Jangpura,"Church Road, Jungpura, Bhogal",Unknown,,,hotel,,2249,INR,103,1.4
+OIUGKAYF,Rooms 552 GK2 M Block Market Extension,Greater Kailash-2,Unknown,,,hotel,,1799,INR,15,1.1
+OIGMKYHY,Rooms 381 Kailash Colony Metro 2,East of Kailash,Unknown,,,hotel,,2299,INR,118,1.5
+OIULWUDB,Rooms 264 Rajouri Garden Metro Station 2,Rajouri Garden,Unknown,,,hotel,,4149,INR,17,1.1
+OIHBVPOV,Premium 458 GT Karnal Road,Alipur,Unknown,,,hotel,,1599,INR,11,1.0
+OIXUDNEP,Rooms 597 Hari Mandir Gali Paharganj,Gali Hari Mandir,Unknown,,,hotel,,2349,INR,148,1.6
+OIGAXOEL,Rooms 385 Karol Bagh 12A/24,"Saraswati Marg, West Extension Area, Karol Bagh",Unknown,,,hotel,,3699,INR,43,1.2
+OIWWBDGY,Homes 369 South Extension 1,South Extension 1,Unknown,,,hotel,,1399,INR,7,1.0
+OIKLDDHC,Premium 581 Karol Bag Pusa Road,"Gurudwara Road, Opposite Jessa Ram Hospital",Unknown,,,hotel,,2499,INR,62,1.2
+OIUZXMFE,Rooms 548 New Delhi Junction,"Arakashan Road, Paharganj",Delhi,,,hotel,,1399,INR,4,1.0
+OIMZXECV,Rooms 288 Dwarka Sector 12 City Centre,Dwarka,Unknown,,,hotel,,3199,INR,36,1.1
+OIPOOLUK,Premium 155 Safdarjung,Green Park Main,Unknown,,,hotel,,3549,INR,65,1.3
+OIPEAUOJ,Rooms 572 DB Gupta Road Karol Bagh 2,"D.B. Gupta Road, Karol Bagh",Unknown,,,hotel,,1949,INR,17,1.1
+OIGFJGKI,Rooms 562 Pitampura Madhuban Chowk,Pitampura,Unknown,,,hotel,,2549,INR,28,1.1
+OILEMCZQ,Rooms 258 Karol Bagh Metro Station 4,Karol Bagh,Unknown,,,hotel,,1049,INR,2,1.0
+OIAWXMLL,Premium 687 Naraina Industrial Area,Naraina Vihar,Unknown,,,hotel,,1499,INR,913,4.7
+OIFOIKWG,Rooms 168 Green Park,Hauz Khas,Unknown,,,hotel,,1849,INR,325,2.3
+OIVIUDIN,Rooms 179 Kashmere Gate,Kashmere Gate,Unknown,,,hotel,,1099,INR,310,2.2
+OILEGQWR,Premium 172 Laxmi Nagar,Laxmi Nagar,Unknown,,,hotel,,2999,INR,28,1.1
+OIVYYUSM,Rooms 523 Karol Bagh WEA Saraswati Marg 4/39,"Saraswati Marg, Karol Bagh",Unknown,,,hotel,,2399,INR,197,1.8
+OILSZTQS,Rooms 259 Rajguru Road Paharganj,Paharganj,Unknown,,,hotel,,1749,INR,102,1.4
+OIYYDBWZ,Premium 594 Malviya Nagar A Block,Shivalik Road,Unknown,,,hotel,,1849,INR,1036,5.0
+OIFJOJVS,Homes 446 Kailash Colony Main Market,Kailash Colony,Unknown,,,hotel,,1499,INR,992,5.0
+OIZBDGYW,Rooms 096 Vasant Kunj 2,New Delhi,Delhi,,,hotel,,1949,INR,3198,5.0
+OIFVWNMS,Premium 335 Model Town Delhi,Bhama Shah Marg,Delhi,,,hotel,,1649,INR,62,1.2
+OIDEFLGW,Rooms 490 Jantar Mantar Delhi,Jai Singh Road,Delhi,,,hotel,,1399,INR,4,1.0
+OIABLIYQ,Rooms 188 Safdarjung Enclave,Safdarjung Enclave,Unknown,,,hotel,,1549,INR,36,1.1
+OILCDHNZ,Premium 346 Connaught Place 2,Connaught Place,Unknown,,,hotel,,2049,INR,65,1.3
+OIAMXDRI,Rooms 167 Safdarjung Extension,Safdarjung,Unknown,,,hotel,,2449,INR,17,1.1
+OISYVXLX,Rooms 222 Karol Bagh Metro Station 3,Karol Bagh,Unknown,,,hotel,,4449,INR,28,1.1
+OIHHOMZZ,Rooms 398 South Extension 2,South Extension-ll,Unknown,,,hotel,,1899,INR,2,1.0
+OIBKWQWX,Rooms 516 Shakti Vihar Pitampura,Pitampura,Unknown,,,hotel,,2349,INR,913,4.7
