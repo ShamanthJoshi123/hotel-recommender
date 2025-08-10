@@ -14,7 +14,7 @@ import glob
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://hotel-recommender.vercel.app/"])
 
 # Path to local OYO data CSV
 OYO_CSV_PATH = 'OYO_HOTELS_792_transformed.csv'
@@ -444,8 +444,6 @@ def oyo_hotels():
         return jsonify({"error": "Internal Server Error", "details": str(e)}), 500
 
 
-# if __name__ == "__main__":
-#     app.run(debug=True)
 
 
 
