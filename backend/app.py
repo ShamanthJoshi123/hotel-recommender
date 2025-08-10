@@ -181,41 +181,14 @@ def get_hotel_offers_batch(hotel_ids, checkin, checkout, token, adults):
     return data
 
 
-def pick_hotels(all_hotels, sample_size=90):
-    luxury_brands = ['taj', 'oberoi', 'leela', 'ritz carlton', 'conrad', 'fairmont']
-    mid_brands = ['marriott', 'hilton', 'hyatt', 'novotel', 'holiday inn', 'intercontinental']
-    popular_brands = set(luxury_brands + mid_brands)
-
-    def is_popular(name):
-        if not name:
-            return False
-        n = name.lower()
-        return any(b in n for b in popular_brands)
-
-    best = []
-    rest = []
-    for h in all_hotels:
-        try:
-            r = float(h.get('rating', 0))
-        except:
-            r = 0
-        if r >= 4.0 and is_popular(h.get('name', '')):
-            best.append(h)
-        else:
-            rest.append(h)
-
-    print(f"Best bucket size: {len(best)}, Rest bucket size: {len(rest)}")
-    best_sample = []
-    if len(best) > 0:
-        best_sample = random.sample(best, min(10, len(best)))
-    to_fill = sample_size - len(best_sample)
-    rest_sample = []
-    if len(rest) > 0:
-        rest_sample = random.sample(rest, min(to_fill, len(rest)))
-    combined = best_sample + rest_sample
-    random.shuffle(combined)
-    print(f"Picked total {len(combined)} hotels")
-    return combined
+def pick_hotels(all_hotels, sample_size=60):
+    # Simply randomly sample up to sample_size hotels
+    if len(all_hotels) <= sample_size:
+        sampled = all_hotels.copy()
+    else:
+        sampled = random.sample(all_hotels, sample_size)
+    print(f"Picked total {len(sampled)} hotels randomly")
+    return sampled
 
 
 def delete_old_csvs(city_code, current_checkin, current_checkout):
@@ -258,18 +231,25 @@ def fetch_and_cache_hotels(city, checkin_date, checkout_date, adults):
     hotels = get_hotel_list(city_code, token)
     if not hotels:
         raise Exception(f"No hotels found for city '{city}'.")
-    selected = pick_hotels(hotels, sample_size=90)
+    
+    # Pick 60 hotels randomly (updated to new pick_hotels)
+    selected = pick_hotels(hotels, sample_size=60)
     hotel_ids = [h['hotelId'] for h in selected if 'hotelId' in h]
 
-    batch_size = 30
+    batch_size = 20  # updated batch size from 30 to 20
     offers = []
     idx = 0
+    max_ids = 60   # Safety cap just in case
+
+    # Limit total IDs to 60 just in case
+    hotel_ids = hotel_ids[:max_ids]
+
     while idx < len(hotel_ids):
-        batch = hotel_ids[idx:idx + batch_size]
+        batch = hotel_ids[idx : idx + batch_size]
         data = get_hotel_offers_batch(batch, checkin_date, checkout_date, token, adults)
         offers.extend(data.get('data', []))
         idx += batch_size
-        time.sleep(0.3)
+        time.sleep(1.0)
 
     hotel_map = {h['hotelId']: h for h in hotels}
     merged = {}
