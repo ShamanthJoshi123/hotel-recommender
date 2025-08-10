@@ -14,7 +14,7 @@ import glob
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app, origins=["https://hotel-recommender.vercel.app/"])
+CORS(app)
 
 # Path to local OYO data CSV
 OYO_CSV_PATH = 'OYO_HOTELS_792_transformed.csv'
