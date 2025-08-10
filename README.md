@@ -1,7 +1,5 @@
 # TripPick – Hotel Recommender System
 
-![Project Logo](frontend/public/TripPick.png)
-
 ## 📌 Overview
 
 **TripPick** is a hotel recommender system that helps users find the best hotels based on city selection, live API data, and local datasets.  
